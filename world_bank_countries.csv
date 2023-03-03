@@ -1,0 +1,150 @@
+country_code,country_name,country_region,country_georegion,land_area
+AGO,Angola,Sub-Saharan Africa,Southern Africa,1251895.62
+ALB,Albania,Central and Eastern Europ,Central Europe,28346.12
+ARE,United Arab Emirates,Middle East and North Africa,Arabian Peninsula,74776.6
+ARG,Argentina,Latin America and Caribbe,South America,2736296
+ARM,Armenia,Middle East and North Africa,Eastern Europe,28272.73
+AUS,Australia,East Asia and the Pacific,Australia + New Zealand,7634643.84
+AUT,Austria,Europe,Western Europe,83160.64
+AZE,Azerbaijan,Central and Eastern Europ,Eastern Europe,85359.86
+BDI,Burundi,Sub-Saharan Africa,Eastern Africa,25226.95
+BEL,Belgium,Europe,Western Europe,30553.27
+BEN,Benin,Sub-Saharan Africa,Western Africa,115828.16
+BFA,Burkina Faso,Sub-Saharan Africa,Western Africa,275747.61
+BGD,Bangladesh,South Asia,South Asia,136248.11
+BGR,Bulgaria,Central and Eastern Europ,Central Europe,111307.14
+BIH,Bosnia and Herzegovina,Central and Eastern Europ,Central Europe,51295.18
+BLR,Belarus,Central and Eastern Europ,Eastern Europe,207012.55
+BLZ,Belize,Latin America and Caribbe,Meso America,22290.39
+BOL,Bolivia,Latin America and Caribbe,South America,1069133.7
+BRA,Brazil,Latin America and Caribbe,South America,8511043.6
+BWA,Botswana,Sub-Saharan Africa,Southern Africa,559515.8
+CAF,Central African Republic,Sub-Saharan Africa,Central Africa,622868.42
+CAN,Canada,North America,North America,9458906.77
+CHE,Switzerland,Europe,Western Europe,38975.12
+CHL,Chile,Latin America and Caribbe,South America,721229.34
+CHN,China,East Asia and the Pacific,Northeast Asia,9198093.51
+CIV,Cote d'Ivoire,Sub-Saharan Africa,Western Africa,320328.85
+CMR,Cameroon,Sub-Saharan Africa,Central Africa,465765.23
+COD,Dem. Rep. Congo,Sub-Saharan Africa,Central Africa,2313414.38
+COG,Congo,Sub-Saharan Africa,Central Africa,343234.65
+COL,Colombia,Latin America and Caribbe,South America,1141177.03
+CRI,Costa Rica,Latin America and Caribbe,Meso America,51014.99
+CUB,Cuba,Latin America and Caribbe,Caribbean,111198.91
+CYP,Cyprus,Middle East and North Africa,Central Europe,9273.16
+CZE,Czech Rep.,Central and Eastern Europ,Central Europe,78600.63
+DEU,Germany,Europe,Western Europe,356026.24
+DJI,Djibouti,Sub-Saharan Africa,Eastern Africa,20903.5
+DNK,Denmark,Europe,Western Europe,42484.49
+DOM,Dominican Rep.,Latin America and Caribbe,Caribbean,48092.01
+DZA,Algeria,Middle East and North Africa,Northern Africa,2302498.08
+ECU,Ecuador,Latin America and Caribbe,South America,256270.64
+EGY,Egypt,Middle East and North Africa,Northern Africa,968071.46
+ERI,Eritrea,Sub-Saharan Africa,Eastern Africa,121862.9
+ESP,Spain,Europe,Western Europe,505283.96
+EST,Estonia,Europe,Central Europe,43178.85
+ETH,Ethiopia,Sub-Saharan Africa,Eastern Africa,1123716.57
+FIN,Finland,Europe,Western Europe,317001.35
+FJI,Fiji,East Asia and the Pacific,South Pacific,18351.66
+FRA,France,Europe,Western Europe,547106.71
+GAB,Gabon,Sub-Saharan Africa,Central Africa,265145.62
+GBR,United Kingdom,Europe,Western Europe,247168.89
+GEO,Georgia,Central and Eastern Europ,Eastern Europe,69236.14
+GHA,Ghana,Sub-Saharan Africa,Western Africa,231729.96
+GIN,Guinea,Sub-Saharan Africa,Western Africa,245860.06
+GNB,Guinea-Bissau,Sub-Saharan Africa,Western Africa,34105.82
+GRC,Greece,Europe,Western Europe,131890.98
+GTM,Guatemala,Latin America and Caribbe,Meso America,108523.47
+GUY,Guyana,Latin America and Caribbe,South America,210632.19
+HND,Honduras,Latin America and Caribbe,Meso America,112078.1
+HRV,Croatia,Europe,Central Europe,56405.68
+HTI,Haiti,Latin America and Caribbe,Caribbean,27229.68
+HUN,Hungary,Central and Eastern Europ,Central Europe,92046.39
+IDN,Indonesia,East Asia and the Pacific,South East Asia,1897811.61
+IND,India,South Asia,South Asia,3208099.12
+IRL,Ireland,Europe,Western Europe,69473.98
+IRN,Iran,Middle East and North Africa,South Asia,1590351.27
+IRQ,Iraq,Middle East and North Africa,Mashriq,426753.71
+ISL,Iceland,Europe,Western Europe,91116.36
+ISR,Israel,Middle East and North Africa,Western Europe,21878.11
+ITA,Italy,Europe,Western Europe,299286.24
+JAM,Jamaica,Latin America and Caribbe,Caribbean,11060.19
+JOR,Jordan,Middle East and North Africa,Mashriq,88361.82
+JPN,Japan,East Asia and the Pacific,Northeast Asia,371705.29
+KAZ,Kazakhstan,Central and Eastern Europ,Central Asia,2619353.45
+KEN,Kenya,Sub-Saharan Africa,Eastern Africa,579617.08
+KGZ,Kyrgyzstan,Central and Eastern Europ,Central Asia,185317.14
+KHM,Cambodia,East Asia and the Pacific,South East Asia,179559.26
+KOR,South Korea,East Asia and the Pacific,Northeast Asia,98977.42
+KWT,Kuwait,Middle East and North Africa,Arabian Peninsula,17259.47
+LAO,Laos,East Asia and the Pacific,South East Asia,230230.75
+LBN,Lebanon,Middle East and North Africa,Mashriq,10327.78
+LKA,Sri Lanka,South Asia,South Asia,65830.04
+LTU,Lithuania,Europe,Central Europe,64995.07
+LUX,Luxembourg,Europe,Western Europe,2587.12
+LVA,Latvia,Europe,Central Europe,64195.65
+MAR,Morocco,Middle East and North Africa,Northern Africa,403759.34
+MDA,Moldova,Central and Eastern Europ,Eastern Europe,34013.1
+MDG,Madagascar,Sub-Saharan Africa,Western Indian Ocean,592965.42
+MEX,Mexico,Latin America and Caribbe,Meso America,1943058.29
+MKD,Macedonia,Central and Eastern Europ,Central Europe,24697.07
+MLI,Mali,Sub-Saharan Africa,Western Africa,1248145.58
+MMR,Myanmar,East Asia and the Pacific,South East Asia,669707.48
+MNG,Mongolia,East Asia and the Pacific,Northeast Asia,1546296.94
+MOZ,Mozambique,Sub-Saharan Africa,Southern Africa,777123.23
+MRT,Mauritania,Sub-Saharan Africa,Western Africa,1036904.89
+MUS,Mauritius,Sub-Saharan Africa,Western Indian Ocean,1993.16
+MWI,Malawi,Sub-Saharan Africa,Southern Africa,94968.41
+MYS,Malaysia,East Asia and the Pacific,South East Asia,330798.79
+NAM,Namibia,Sub-Saharan Africa,Southern Africa,819961.13
+NER,Niger,Sub-Saharan Africa,Western Africa,1157232.49
+NGA,Nigeria,Sub-Saharan Africa,Western Africa,904234.85
+NIC,Nicaragua,Latin America and Caribbe,Meso America,118789.48
+NLD,Netherlands,Europe,Western Europe,35043.85
+NOR,Norway,Europe,Western Europe,318523.72
+NPL,Nepal,South Asia,South Asia,139103.09
+NZL,New Zealand,East Asia and the Pacific,Australia + New Zealand,265334.38
+OMN,Oman,Middle East and North Africa,Arabian Peninsula,304189.58
+PAK,Pakistan,South Asia,South Asia,785319.81
+PAN,Panama,Latin America and Caribbe,Meso America,74515.22
+PER,Peru,Latin America and Caribbe,South America,1288259.27
+PHL,Philippines,East Asia and the Pacific,South East Asia,295386.88
+PNG,Papua New Guinea,East Asia and the Pacific,South Pacific,465004.05
+POL,Poland,Europe,Central Europe,311195.23
+PRT,Portugal,Europe,Western Europe,91426.39
+PRY,Paraguay,Latin America and Caribbe,South America,395907.51
+ROU,Romania,Central and Eastern Europ,Central Europe,237056.1
+RUS,Russia,Central and Eastern Europ,Eastern Europe,16679992.73
+RWA,Rwanda,Sub-Saharan Africa,Eastern Africa,24348.89
+SAU,Saudi Arabia,Middle East and North Africa,Arabian Peninsula,1942660.31
+SDN,Sudan,Middle East and North Africa,Northern Africa,2492385.4
+SEN,Senegal,Sub-Saharan Africa,Western Africa,196150.99
+SLB,Solomon Islands,East Asia and the Pacific,South Pacific,28707.41
+SLE,Sierra Leone,Sub-Saharan Africa,Western Africa,72617.41
+SLV,El Salvador,Latin America and Caribbe,Meso America,20278.94
+SVK,Slovakia,Central and Eastern Europ,Central Europe,48874.99
+SVN,Slovenia,Europe,Central Europe,20223.97
+SWE,Sweden,Europe,Western Europe,431704.25
+SWZ,Swaziland,Sub-Saharan Africa,Southern Africa,17409.73
+SYR,Syria,Middle East and North Africa,Mashriq,184365.81
+TCD,Chad,Sub-Saharan Africa,Central Africa,1243139.16
+TGO,Togo,Sub-Saharan Africa,Western Africa,57276.95
+THA,Thailand,East Asia and the Pacific,South East Asia,513634.82
+TJK,Tajikistan,Central and Eastern Europ,Central Asia,130110.95
+TKM,Turkmenistan,Central and Eastern Europ,Central Asia,460254.24
+TTO,Trinidad & Tobago,Latin America and Caribbe,Caribbean,5202.12
+TUN,Tunisia,Middle East and North Africa,Northern Africa,147881.49
+TUR,Turkey,Middle East and North Africa,Central Europe,768693.62
+TWN,Taiwan,East Asia and the Pacific,Northeast Asia,36222.74
+TZA,Tanzania,Sub-Saharan Africa,Southern Africa,891021.57
+UGA,Uganda,Sub-Saharan Africa,Eastern Africa,207069.18
+UKR,Ukraine,Central and Eastern Europ,Eastern Europe,588417.29
+URY,Uruguay,Latin America and Caribbe,South America,174047.96
+USA,United States,North America,North America,9210753.38
+UZB,Uzbekistan,Central and Eastern Europ,Central Asia,412711.17
+VEN,Venezuela,Latin America and Caribbe,South America,911835.87
+VNM,Viet Nam,East Asia and the Pacific,South East Asia,328819.59
+YEM,Yemen,Middle East and North Africa,Arabian Peninsula,415203.04
+ZAF,South Africa,Sub-Saharan Africa,Southern Africa,1217643.11
+ZMB,Zambia,Sub-Saharan Africa,Southern Africa,745317.51
+ZWE,Zimbabwe,Sub-Saharan Africa,Southern Africa,389053.02

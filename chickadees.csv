@@ -1,0 +1,1306 @@
+id,region,spp,date,mass,wing,sex
+b264-7018g,Atlanta,Carolina,2015-04-21,9.7,60,M
+b764-5255i,Atlanta,Carolina,2015-04-30,8.8,52,F
+e618-6927o,Atlanta,Carolina,2015-04-30,8.5,58,F
+w194-2593e,Atlanta,Carolina,2015-04-30,9.7,64,M
+c745-9530g,Atlanta,Carolina,2015-04-30,9.6,63,F
+z245-7007j,Atlanta,Carolina,2015-04-30,8.4,58,F
+r356-5264b,Atlanta,Carolina,2015-04-30,9.2,60,M
+w954-5845p,Atlanta,Carolina,2015-05-06,9.6,61,M
+b554-9549t,Atlanta,Carolina,2015-05-06,9.8,59,M
+k552-8285z,Atlanta,Carolina,2015-05-06,8.8,59,F
+h952-6370e,Atlanta,Carolina,2015-05-07,8.3,59,F
+e338-2440l,Atlanta,Carolina,2015-05-07,8.7,61,M
+e377-1726d,Atlanta,Carolina,2015-05-15,9,55,F
+p920-3993l,Atlanta,Carolina,2015-05-22,9.5,65,M
+n592-3454f,Atlanta,Carolina,2015-05-26,7.8,58,F
+l895-7332b,Atlanta,Carolina,2015-05-26,8.4,58,F
+w264-7136c,Atlanta,Carolina,2015-05-30,9.7,59,F
+c494-8768j,Atlanta,Carolina,2015-05-30,8.5,59,M
+z420-8514d,Atlanta,Carolina,2015-05-30,9.4,62,M
+k601-4377z,Atlanta,Carolina,2015-05-30,9.3,60,F
+g255-7149m,Atlanta,Carolina,2015-06-01,9.8,65,M
+y649-6554d,Atlanta,Carolina,2015-06-01,10.3,60,M
+j828-9298j,Atlanta,Carolina,2015-06-03,8.7,56,F
+c963-3525j,Atlanta,Carolina,2015-06-06,9.6,56,F
+d380-7713s,Atlanta,Carolina,2015-06-06,9.3,59,F
+z874-8804z,Atlanta,Carolina,2015-06-06,10.6,61,M
+g796-6334y,Atlanta,Carolina,2015-06-06,9.4,62,F
+i692-2904r,Atlanta,Carolina,2015-06-06,9.8,61,F
+k372-3299n,Atlanta,Carolina,2015-06-07,8,60,F
+i289-4851t,Atlanta,Carolina,2015-06-07,7.6,56,F
+c462-6074q,Atlanta,Carolina,2015-06-14,9.1,58,F
+y983-1623a,Atlanta,Carolina,2015-06-25,9.1,64,M
+e233-9711p,Atlanta,Carolina,2016-03-24,9.5,63,M
+k245-9533d,Atlanta,Carolina,2016-03-24,9.1,55,F
+s513-3289l,Atlanta,Carolina,2016-04-11,9.8,61,M
+e618-1806l,Atlanta,Carolina,2016-04-14,9.7,62,M
+t672-4702u,Atlanta,Carolina,2016-04-14,8.9,58,F
+u511-4718m,Atlanta,Carolina,2016-04-14,8.5,58,F
+j935-1011p,Atlanta,Carolina,2016-04-15,10.2,60,F
+e974-5748v,Atlanta,Carolina,2016-04-15,9.2,60,F
+j849-6984j,Atlanta,Carolina,2016-04-18,9.8,60,M
+h436-4433x,Atlanta,Carolina,2016-04-18,10.3,65,M
+j619-9116w,Atlanta,Carolina,2016-04-20,9.4,58,F
+v983-2544u,Atlanta,Carolina,2016-04-28,9.2,61,M
+j462-4525m,Atlanta,Carolina,2016-04-30,9,58,M
+d375-6640h,Atlanta,Carolina,2016-04-30,8.6,59,F
+t138-4877d,Atlanta,Carolina,2016-05-02,9.1,57,F
+a297-3369q,Atlanta,Carolina,2016-05-03,10,65,M
+o196-2320i,Atlanta,Carolina,2016-05-06,9.1,60,F
+f497-6033r,Atlanta,Carolina,2016-05-06,8.9,62,M
+a558-2057x,Atlanta,Carolina,2016-05-14,9.6,65,M
+p991-8688h,Atlanta,Carolina,2016-05-14,9.2,60,F
+c931-1311m,Atlanta,Carolina,2016-05-14,8.1,57,F
+a347-3744e,Atlanta,Carolina,2016-05-14,9.6,62,F
+y740-4665n,Atlanta,Carolina,2016-05-14,8.5,59,F
+l261-3149k,Atlanta,Carolina,2016-05-23,9.7,62,F
+u747-9365u,Atlanta,Carolina,2016-05-23,8.8,59,F
+w373-1593u,Atlanta,Carolina,2016-05-23,8.3,58,F
+r145-3245t,Atlanta,Carolina,2016-05-23,10,59,F
+r945-2635y,Atlanta,Carolina,2016-05-23,9.1,60,F
+k364-8933p,Atlanta,Carolina,2016-05-23,9.1,57,F
+l389-7791o,Atlanta,Carolina,2016-05-24,8,60,F
+w271-3971m,Atlanta,Carolina,2016-05-24,8.6,62,M
+o538-5482w,Atlanta,Carolina,2016-05-24,9.9,64,M
+w887-2155d,Atlanta,Carolina,2016-05-26,9.2,63,F
+v871-4751i,Atlanta,Carolina,2016-06-01,9.3,59,F
+r623-2328l,Atlanta,Carolina,2016-06-01,9.2,59,F
+k229-9327w,Atlanta,Carolina,2016-06-01,9.2,62,F
+e831-8422c,Atlanta,Carolina,2016-06-13,10.1,62,F
+e224-5359r,Atlanta,Carolina,2016-06-15,10.2,66,M
+a500-7553k,Atlanta,Carolina,2017-03-25,9.7,61,M
+q711-3932c,Atlanta,Carolina,2017-03-25,9,60,F
+x871-9255m,Atlanta,Carolina,2017-03-27,9.6,57,F
+x517-3473r,Atlanta,Carolina,2017-03-29,9.6,61,F
+e227-6667l,Atlanta,Carolina,2017-03-29,9.2,57,F
+c194-4332i,Atlanta,Carolina,2017-04-07,9.5,59,M
+d557-1541l,Atlanta,Carolina,2017-04-09,9.7,60,F
+a917-5378n,Atlanta,Carolina,2017-04-09,9.4,61,M
+i956-4393r,Atlanta,Carolina,2017-04-11,9,62,F
+r818-7637j,Atlanta,Carolina,2017-04-14,9.6,60,M
+r306-5205f,Atlanta,Carolina,2017-04-14,9.3,58,F
+f797-8886p,Atlanta,Carolina,2017-04-14,9.1,55,F
+y991-3891r,Atlanta,Carolina,2017-04-20,9.1,61,M
+b186-4649a,Atlanta,Carolina,2017-04-20,9.2,61,M
+z215-8920j,Atlanta,Carolina,2017-04-27,9.3,58,M
+c531-5517f,Atlanta,Carolina,2017-05-03,8.8,58,M
+t201-8842v,Atlanta,Carolina,2017-05-09,8,59,F
+b305-5134b,Atlanta,Carolina,2017-05-11,9.3,60,M
+l867-3378o,Atlanta,Carolina,2017-05-13,9.5,58,M
+p204-7092l,Atlanta,Carolina,2017-05-15,8.2,55,F
+q291-6372z,Atlanta,Carolina,2017-06-01,8.8,57,F
+v814-8883e,Atlanta,Carolina,2017-06-01,10.2,62,F
+b815-3745j,Atlanta,Carolina,2017-06-03,9.1,61,F
+p147-8815a,Atlanta,Carolina,2017-06-08,9.6,62,F
+v991-1245m,Atlanta,Carolina,2017-06-08,9,62,F
+n469-2455q,Atlanta,Carolina,2017-06-11,9.2,57,F
+d302-4010s,Colorado,Black-capped,2017-05-12,11.1,69,F
+c278-6432t,Colorado,Black-capped,2017-05-24,12.5,68,F
+w810-1069h,Colorado,Black-capped,2017-05-26,12,64,F
+r533-7856q,Colorado,Black-capped,2017-06-14,11,68,M
+z382-2282q,Colorado,Black-capped,2017-06-26,11,66,F
+u150-2883v,Colorado,Black-capped,2017-07-06,10.7,65,F
+w326-5167p,Gainesville,Carolina,2012-06-20,9.2,58,M
+v884-5903x,Gainesville,Carolina,2012-06-28,9.8,58,M
+f836-4505o,Gainesville,Carolina,2012-07-14,10.5,58,M
+a614-7012k,Gainesville,Carolina,2012-07-26,10.1,59,M
+t248-3478a,Gainesville,Carolina,2013-04-27,9.7,60,M
+h960-1129i,Gainesville,Carolina,2013-05-07,9.5,56,M
+j700-7042x,Gainesville,Carolina,2013-05-07,9.6,57.5,M
+i626-9569m,Gainesville,Carolina,2013-05-11,9.2,55,F
+o781-2441o,Gainesville,Carolina,2013-05-11,9.7,61.5,M
+q949-9053e,Gainesville,Carolina,2013-05-14,9.5,57,F
+w693-4473i,Gainesville,Carolina,2013-05-14,9.6,62,M
+u979-5497e,Gainesville,Carolina,2013-05-16,8.3,53,F
+j688-5642l,Gainesville,Carolina,2013-05-16,10.4,57,M
+h650-4041a,Gainesville,Carolina,2013-05-17,9.9,60,M
+w154-3193o,Gainesville,Carolina,2013-05-20,9.5,59,F
+r371-5377z,Gainesville,Carolina,2013-05-20,9.8,58,F
+i118-7601g,Gainesville,Carolina,2013-05-21,10.4,55,F
+f888-4012c,Gainesville,Carolina,2013-05-23,8.5,56,F
+n332-3557r,Gainesville,Carolina,2013-05-24,9.4,58,M
+y845-5427c,Gainesville,Carolina,2013-05-24,9.9,57,F
+r627-1866q,Gainesville,Carolina,2013-05-25,9,56,F
+p246-2326x,Gainesville,Carolina,2013-05-25,9.2,56,F
+x504-8239k,Gainesville,Carolina,2013-05-25,10.1,60,M
+x832-8447u,Gainesville,Carolina,2013-05-28,9.4,56,M
+v387-7768z,Gainesville,Carolina,2013-05-28,9.7,59,F
+y968-8538z,Gainesville,Carolina,2013-06-04,9.7,59,M
+s620-2942c,Gainesville,Carolina,2013-06-04,8.7,55,M
+t266-6794k,Gainesville,Carolina,2013-06-07,8.7,57,F
+s795-1340n,Gainesville,Carolina,2013-06-08,8.6,57,F
+s416-5451n,Gainesville,Carolina,2013-06-08,8.6,53,F
+m498-6006p,Gainesville,Carolina,2013-06-13,8.3,55,M
+f557-8550a,Gainesville,Carolina,2013-06-13,10.2,58,M
+o903-2338e,Gainesville,Carolina,2013-06-16,9.9,60,M
+m523-6789o,Gainesville,Carolina,2013-06-16,9.1,55,M
+w652-8435w,Gainesville,Carolina,2013-06-18,8.9,55,M
+p267-1152q,Gainesville,Carolina,2013-06-25,9.2,56,M
+a312-5693d,Gainesville,Carolina,2013-06-27,9.5,59,M
+b623-2304j,Gainesville,Carolina,2014-05-19,10.2,59,F
+o515-1866s,Gainesville,Carolina,2014-05-20,9.1,60,M
+v604-3796b,Gainesville,Carolina,2014-05-21,9.3,59,F
+y676-2199r,Gainesville,Carolina,2014-05-21,9.2,57,F
+j430-4767a,Gainesville,Carolina,2014-05-22,9.9,55,F
+h246-9165r,Gainesville,Carolina,2014-05-23,10.3,60,M
+u664-7874g,Gainesville,Carolina,2014-05-26,9.3,59,M
+i489-8830u,Gainesville,Carolina,2014-05-28,10.1,59,M
+n774-1513r,Gainesville,Carolina,2014-06-03,10.1,58,M
+p755-4979i,Gainesville,Carolina,2014-06-06,9.4,59,F
+r825-3557j,Gainesville,Carolina,2014-06-07,8.9,60,F
+f867-4120c,Gainesville,Carolina,2014-06-07,8.5,57,F
+u774-2450a,Gainesville,Carolina,2014-06-07,9.9,57,F
+r127-6407h,Gainesville,Carolina,2014-06-09,9.8,60,F
+o814-4870r,Gainesville,Carolina,2014-06-09,8.4,58,F
+v387-5433c,Gainesville,Carolina,2014-06-09,9.2,60,M
+h945-9816q,Gainesville,Carolina,2014-06-21,9.6,59,M
+m621-3719g,Gainesville,Carolina,2014-06-21,9.5,59,F
+j658-7310v,Gainesville,Carolina,2014-06-23,8.3,56,M
+j567-4295i,Gainesville,Carolina,2015-04-19,9.3,61,M
+n478-3716t,Gainesville,Carolina,2015-04-24,8.7,58,M
+z205-7140t,Gainesville,Carolina,2015-05-05,9.5,61,M
+u781-6818y,Gainesville,Carolina,2015-05-05,9.4,63,M
+k976-3635m,Gainesville,Carolina,2015-05-06,9.3,56,F
+g339-2805a,Gainesville,Carolina,2015-05-06,10,60,M
+s176-6556g,Gainesville,Carolina,2015-05-08,8.8,59,M
+s536-6801a,Gainesville,Carolina,2015-05-08,8.8,55,F
+y259-2243m,Gainesville,Carolina,2015-05-09,9.4,58,M
+n274-9515x,Gainesville,Carolina,2015-05-10,8.7,58,M
+r350-2088c,Gainesville,Carolina,2015-05-11,9.3,60,M
+g679-3621o,Gainesville,Carolina,2015-05-12,9.2,57,F
+u361-4210a,Gainesville,Carolina,2015-05-12,9.1,57,M
+b720-9063u,Gainesville,Carolina,2015-05-12,9.4,59,M
+j804-6244o,Gainesville,Carolina,2015-05-15,9.3,56,F
+j913-9533e,Gainesville,Carolina,2015-05-16,9.7,59,M
+j337-7760u,Gainesville,Carolina,2015-05-16,9.1,56,M
+y147-2270r,Gainesville,Carolina,2015-05-16,9.6,58,F
+a730-6737d,Gainesville,Carolina,2015-05-17,9.2,56,F
+a875-2316s,Gainesville,Carolina,2015-05-17,9.6,57,M
+x423-8011j,Gainesville,Carolina,2015-05-19,9,57,F
+u280-7939h,Gainesville,Carolina,2015-05-19,9.1,60,M
+j224-3955s,Gainesville,Carolina,2015-05-19,9.3,59,M
+h498-5814c,Gainesville,Carolina,2015-05-19,8.8,56,F
+y600-8808j,Gainesville,Carolina,2015-05-22,8.9,56,F
+h286-2194a,Gainesville,Carolina,2015-05-22,10.2,61,M
+m570-7823u,Gainesville,Carolina,2015-05-22,8.9,57,M
+x519-7289x,Gainesville,Carolina,2015-06-07,9.4,63,M
+w171-2174j,Gainesville,Carolina,2015-06-13,8.7,54,F
+f436-8824l,Gainesville,Carolina,2015-06-13,10,58,M
+t196-6155z,Gainesville,Carolina,2015-06-22,11.8,58,M
+z559-7459e,Gainesville,Carolina,2015-07-11,8.5,58,M
+g503-4220g,Gainesville,Carolina,2015-07-11,8.2,57,M
+j457-2540h,Gainesville,Carolina,2015-07-11,9,56,M
+o669-2640e,Gainesville,Carolina,2017-03-25,8.9,59,M
+z835-9605k,Gainesville,Carolina,2017-03-27,8.8,58,M
+m414-5738k,Gainesville,Carolina,2017-03-27,8.8,55,F
+e490-8940w,Gainesville,Carolina,2017-03-28,9.4,59,M
+z597-1244d,Gainesville,Carolina,2017-03-31,9,58,M
+j355-5359s,Gainesville,Carolina,2017-03-31,9,59,M
+g132-1580w,Gainesville,Carolina,2017-04-01,8.4,57,M
+n727-9992g,Gainesville,Carolina,2017-04-05,8.5,60,M
+d782-8533n,Gainesville,Carolina,2017-04-07,9.5,59,M
+d646-9797w,Gainesville,Carolina,2017-04-10,9.4,57,M
+m982-9717b,Gainesville,Carolina,2017-04-11,8.3,57,F
+q630-2752z,Gainesville,Carolina,2017-04-14,9.5,58,M
+b275-4087z,Gainesville,Carolina,2017-04-15,8.7,62,M
+n204-6410g,Gainesville,Carolina,2017-04-16,8.4,57,F
+o346-4055u,Gainesville,Carolina,2017-04-17,7.9,57,F
+w890-8572p,Gainesville,Carolina,2017-04-17,8.4,59,M
+g869-8439y,Gainesville,Carolina,2017-04-18,9.4,58,M
+t246-5898y,Gainesville,Carolina,2017-04-18,8.1,55,F
+y218-6768q,Gainesville,Carolina,2017-04-20,9.1,57,F
+o442-1473r,Gainesville,Carolina,2017-04-20,9.2,59,M
+q741-1905x,Gainesville,Carolina,2017-04-24,8.8,56,F
+n750-6394n,Gainesville,Carolina,2017-04-24,9.4,59,M
+v790-1387h,Gainesville,Carolina,2017-04-26,8.3,59,F
+g366-9142n,Gainesville,Carolina,2017-04-26,9.3,59,M
+x680-6151n,Gainesville,Carolina,2017-04-28,8.6,61,M
+t561-3352c,Gainesville,Carolina,2017-04-28,8.8,58,M
+l239-6293b,Gainesville,Carolina,2017-04-28,8.4,57,F
+z173-1131i,Gainesville,Carolina,2017-04-28,8.7,57,F
+z395-6874k,Gainesville,Carolina,2017-04-29,8.7,58,F
+g707-9332d,Gainesville,Carolina,2017-04-29,8.5,57,F
+h171-6529u,Gainesville,Carolina,2017-04-29,8.9,58,M
+a726-4887b,Gainesville,Carolina,2017-04-30,9.5,61,M
+e672-1321c,Gainesville,Carolina,2017-04-30,8.4,58,F
+g526-9863o,Gainesville,Carolina,2017-05-01,9,57,F
+h443-5104g,Gainesville,Carolina,2017-05-01,9.4,61,M
+t744-8981j,Gainesville,Carolina,2017-05-01,8.9,56,F
+r118-3123g,Gainesville,Carolina,2017-05-01,8.7,59,M
+n890-3532d,Gainesville,Carolina,2017-05-05,8.3,55,F
+p593-3888x,Gainesville,Carolina,2017-05-06,8.8,59,M
+y275-1639b,Gainesville,Carolina,2017-05-08,9.6,59,M
+q896-8934b,Gainesville,Carolina,2017-05-09,8.6,60,M
+x667-4138o,Gainesville,Carolina,2017-05-09,8.3,56,F
+w253-1198a,Gainesville,Carolina,2017-05-10,9.1,57,M
+n467-8547v,Gainesville,Carolina,2017-05-11,8.3,57,F
+b104-6045y,Gainesville,Carolina,2017-05-11,9.3,58,M
+v546-1877s,Gainesville,Carolina,2017-05-12,8.8,62,M
+m220-4528o,Gainesville,Carolina,2017-05-14,9.1,59,M
+j927-6322h,Gainesville,Carolina,2017-05-14,8.4,56,F
+i955-3937f,Gainesville,Carolina,2017-05-14,8.8,57,M
+k714-8480v,Gainesville,Carolina,2017-05-16,9.1,61,M
+u136-1133p,Gainesville,Carolina,2017-05-18,8.2,59,M
+g585-6347b,Gainesville,Carolina,2017-05-18,10.1,58,F
+q765-2180p,Gainesville,Carolina,2017-05-18,8.7,61,M
+h619-3015b,Gainesville,Carolina,2017-05-18,8,55,F
+l330-7150w,Gainesville,Carolina,2017-05-21,10.2,59,F
+u637-7201x,Gainesville,Carolina,2017-05-21,9.3,56,M
+p591-5353d,Gainesville,Carolina,2017-05-28,9.3,57,F
+d817-7586o,Gainesville,Carolina,2017-05-28,7.9,54,F
+k262-1554f,Gainesville,Carolina,2017-05-28,8.9,56,M
+y609-5318s,Gainesville,Carolina,2017-05-31,9.7,57,M
+f651-2379w,Gainesville,Carolina,2017-05-31,8.7,56,M
+s736-6768h,Gainesville,Carolina,2017-06-03,9,59,M
+k515-5600m,Gainesville,Carolina,2017-06-03,9.5,60,M
+z905-8826k,Pittsburgh,Carolina,2013-06-26,10,62.5,M
+w175-4484l,Pittsburgh,Carolina,2013-06-30,10.9,63.5,M
+s320-4474c,Pittsburgh,Black-capped,2013-06-30,11.2,65.5,M
+p996-8564b,Pittsburgh,Carolina,2013-07-02,10,62,M
+w764-3618l,Pittsburgh,Carolina,2013-07-13,10,61.5,M
+n502-3434n,Pittsburgh,Carolina,2013-07-31,9.9,61.5,M
+q271-1250n,Pittsburgh,Carolina,2013-08-05,10.5,61,F
+g353-6091u,Pittsburgh,Carolina,2014-05-20,9.1,59,F
+x418-5764g,Pittsburgh,Carolina,2014-05-21,10.1,63,F
+w368-5834u,Pittsburgh,Carolina,2014-05-22,11.5,65,M
+r102-6290e,Pittsburgh,Carolina,2014-05-22,10.6,61.5,F
+z503-2769o,Pittsburgh,Black-capped,2014-05-23,10.6,65,M
+g190-1257r,Pittsburgh,Carolina,2014-05-24,10.6,65,M
+d651-8229f,Pittsburgh,Carolina,2014-05-24,9.8,62.5,F
+j871-6019f,Pittsburgh,Black-capped,2014-05-27,11.2,66,M
+x485-7456i,Pittsburgh,Carolina,2014-05-28,10,61.5,M
+g283-5902d,Pittsburgh,Carolina,2014-05-28,10,64.5,M
+h569-1007z,Pittsburgh,Black-capped,2014-05-29,11.1,66.5,M
+d913-9071j,Pittsburgh,Black-capped,2014-05-29,11.9,65.5,M
+i436-7092v,Pittsburgh,Black-capped,2014-05-29,11.5,64.5,M
+i635-4304q,Pittsburgh,Carolina,2014-05-30,8.5,61,F
+o440-6373u,Pittsburgh,Carolina,2014-05-31,10.6,63,M
+r973-6492e,Pittsburgh,Carolina,2014-05-31,11,63,M
+x789-1490g,Pittsburgh,Carolina,2014-05-31,9.2,59.5,F
+u884-9351a,Pittsburgh,Carolina,2014-05-31,10.5,65,M
+x426-1714b,Pittsburgh,Carolina,2014-06-02,9.7,60,F
+l229-4550f,Pittsburgh,Carolina,2014-06-02,11,63.5,M
+q285-1756k,Pittsburgh,Carolina,2014-06-02,10.2,60,F
+z620-9401h,Pittsburgh,Carolina,2014-06-03,10,59.5,F
+c729-3440z,Pittsburgh,Carolina,2014-06-03,10.9,65,M
+l784-4084z,Pittsburgh,Carolina,2014-06-04,8.7,61,F
+g223-5332b,Pittsburgh,Carolina,2014-06-04,10,61,M
+z818-7596f,Pittsburgh,Carolina,2014-06-04,10.2,64.5,M
+m870-7785c,Pittsburgh,Carolina,2014-06-04,9.3,63.5,M
+m750-8598v,Pittsburgh,Carolina,2014-06-04,9.6,59.5,F
+y380-6758a,Pittsburgh,Carolina,2014-06-04,10.5,63,M
+k910-7126n,Pittsburgh,Carolina,2014-06-05,9.2,62.5,M
+s720-8877a,Pittsburgh,Black-capped,2014-06-06,11.7,67.5,M
+s682-6093m,Pittsburgh,Black-capped,2014-06-06,11.8,66,M
+v470-3773x,Pittsburgh,Black-capped,2014-06-07,11,67,M
+f498-2497p,Pittsburgh,Carolina,2014-06-07,8.4,58,M
+x108-1112n,Pittsburgh,Black-capped,2014-06-09,11.4,65,M
+e367-6041j,Pittsburgh,Black-capped,2014-06-09,12.1,62,F
+u958-7984g,Pittsburgh,Carolina,2014-06-11,10.6,61.5,F
+i709-4759t,Pittsburgh,Black-capped,2014-06-13,11.1,63,M
+o991-3724b,Pittsburgh,Black-capped,2014-06-13,11.3,65,M
+g544-6078a,Pittsburgh,Black-capped,2014-06-13,11.6,64,M
+s122-2029w,Pittsburgh,Black-capped,2014-06-13,10.6,60,F
+h808-5117s,Pittsburgh,Black-capped,2014-06-15,11.9,64,M
+w535-6009f,Pittsburgh,Carolina,2014-06-16,9.2,62,F
+f585-3124n,Pittsburgh,Carolina,2014-06-16,11.3,64,M
+h265-6918e,Pittsburgh,Black-capped,2014-06-17,11.2,66,M
+m286-8289r,Pittsburgh,Black-capped,2014-06-17,11.2,65.5,M
+c929-1618w,Pittsburgh,Carolina,2014-06-19,9.7,58.5,F
+h358-3747c,Pittsburgh,Carolina,2014-06-20,10.2,63,M
+y104-1295j,Pittsburgh,Carolina,2014-06-20,10.1,60.5,F
+c342-2716r,Pittsburgh,Carolina,2014-06-20,10.7,64.5,M
+w966-7934f,Pittsburgh,Carolina,2014-06-20,10.1,63,M
+t255-2153f,Pittsburgh,Carolina,2014-06-20,10.2,62.5,M
+q364-5988c,Pittsburgh,Black-capped,2014-06-21,11,65,M
+t857-5274r,Pittsburgh,Black-capped,2014-06-21,11.4,65,M
+o521-9544v,Pittsburgh,Black-capped,2014-06-21,11.4,65.5,M
+n585-8992k,Pittsburgh,Carolina,2014-06-22,9.9,63,F
+n131-2708o,Pittsburgh,Carolina,2014-06-22,9.4,60,M
+m316-4916c,Pittsburgh,Carolina,2014-06-22,11.1,65,M
+m805-3865q,Pittsburgh,Carolina,2014-06-23,10.7,63,M
+s397-8352p,Pittsburgh,Carolina,2014-06-23,10.1,61,M
+m943-1840e,Pittsburgh,Carolina,2014-06-24,10.4,63,M
+c768-2704s,Pittsburgh,Carolina,2014-06-25,9.6,60.5,F
+d507-1462e,Pittsburgh,Carolina,2014-06-25,9.7,62.5,F
+t749-9592o,Pittsburgh,Black-capped,2014-06-29,11.3,65.5,M
+h415-5624c,Pittsburgh,Carolina,2014-06-30,11.1,64.5,M
+n372-5560h,Pittsburgh,Black-capped,2014-07-01,10.6,63.5,M
+w627-7226c,Pittsburgh,Carolina,2014-07-01,10.5,62.5,M
+i246-9653h,Pittsburgh,Carolina,2014-07-01,9.7,60,F
+u886-2020l,Pittsburgh,Carolina,2014-07-02,10.6,62.5,M
+h149-4380y,Pittsburgh,Black-capped,2014-07-03,10.7,66,F
+f887-4844n,Pittsburgh,Black-capped,2014-07-03,10.9,67,M
+u998-5957o,Pittsburgh,Carolina,2014-07-04,11.1,60,M
+e848-6224f,Pittsburgh,Carolina,2014-07-04,11,64.5,M
+l813-8026u,Pittsburgh,Carolina,2014-07-04,11.2,63.5,M
+z974-5560j,Pittsburgh,Black-capped,2014-07-05,11,61.5,M
+v860-1497q,Pittsburgh,Carolina,2014-07-06,10,64.5,M
+l504-2976n,Pittsburgh,Black-capped,2014-07-08,9.8,59.5,F
+h953-1457c,Pittsburgh,Black-capped,2014-07-08,10.8,66,M
+v896-4872c,Pittsburgh,Carolina,2014-07-09,10.7,61,F
+w511-8089f,Pittsburgh,Carolina,2014-07-10,9.6,61.5,F
+c380-5044m,Pittsburgh,Carolina,2014-07-10,10.6,64,M
+f870-7441t,Pittsburgh,Carolina,2014-07-11,10.1,60,F
+h208-7386y,Pittsburgh,Carolina,2014-07-13,10.1,63,M
+a311-4831j,Pittsburgh,Carolina,2014-07-16,10.9,65.5,M
+y976-9055e,Pittsburgh,Black-capped,2014-07-17,9.8,64,F
+y741-6767v,Pittsburgh,Carolina,2014-07-29,10.1,62,F
+e772-4460m,Pittsburgh,Carolina,2015-04-21,11,64.5,M
+o155-6402e,Pittsburgh,Carolina,2015-04-21,10.4,63.5,M
+o641-5969q,Pittsburgh,Carolina,2015-04-21,10.5,64.5,M
+i357-3816a,Pittsburgh,Carolina,2015-04-21,11,61.5,F
+k378-8077e,Pittsburgh,Carolina,2015-05-08,11.1,64,M
+v105-7098p,Pittsburgh,Carolina,2015-05-08,10,64.5,M
+l421-3253x,Pittsburgh,Carolina,2015-05-08,10.5,65,M
+v869-4406s,Pittsburgh,Carolina,2015-05-08,9.9,65.5,M
+x194-7222v,Pittsburgh,Black-capped,2015-05-15,11.1,66.5,M
+g729-9665c,Pittsburgh,Black-capped,2015-05-15,10.8,65,M
+m616-5804y,Pittsburgh,Carolina,2015-05-16,10.1,62,M
+h720-5382c,Pittsburgh,Black-capped,2015-05-16,11.9,65.5,M
+g721-3939s,Pittsburgh,Carolina,2015-05-16,9.5,60,F
+j582-4586d,Pittsburgh,Carolina,2015-05-17,10,63,M
+t582-2724r,Pittsburgh,Carolina,2015-05-17,9.1,60.5,F
+p481-9356i,Pittsburgh,Carolina,2015-05-18,9.8,63,M
+q263-5954p,Pittsburgh,Carolina,2015-05-19,10.1,65,M
+o448-3807p,Pittsburgh,Carolina,2015-05-20,10.7,63,M
+l949-9163h,Pittsburgh,Carolina,2015-05-20,10.7,63,M
+e919-4928b,Pittsburgh,Carolina,2015-05-20,11.1,62.5,M
+a954-9344o,Pittsburgh,Black-capped,2015-05-21,9.8,62.5,F
+g934-7318w,Pittsburgh,Carolina,2015-05-22,9.8,60.5,F
+b117-3868d,Pittsburgh,Carolina,2015-05-22,10.6,64,M
+k800-4841o,Pittsburgh,Carolina,2015-05-22,10.5,63,M
+s790-4404f,Pittsburgh,Carolina,2015-05-22,10.6,64,M
+p555-4956f,Pittsburgh,Carolina,2015-05-23,10,65.5,M
+s751-9985w,Pittsburgh,Carolina,2015-05-23,10.7,63,M
+t231-2227o,Pittsburgh,Carolina,2015-05-23,9.5,62,F
+m745-3589w,Pittsburgh,Black-capped,2015-05-23,11.5,67,M
+t336-8191f,Pittsburgh,Carolina,2015-05-24,9.6,59,F
+v872-2129r,Pittsburgh,Carolina,2015-05-24,10.5,64.5,M
+j550-2497b,Pittsburgh,Carolina,2015-05-24,10.4,62.5,M
+m303-2127u,Pittsburgh,Carolina,2015-05-24,9.8,64,M
+r954-3937z,Pittsburgh,Carolina,2015-05-24,11,64.5,M
+i812-5368v,Pittsburgh,Carolina,2015-05-25,11.1,65,M
+t618-3535t,Pittsburgh,Black-capped,2015-05-26,11.8,67,M
+z850-1011y,Pittsburgh,Carolina,2015-05-27,10,65.5,M
+l596-1151w,Pittsburgh,Carolina,2015-05-27,9.7,61,F
+p905-8469p,Pittsburgh,Carolina,2015-05-27,9.1,59.5,F
+b522-7619l,Pittsburgh,Carolina,2015-05-27,10.9,64.5,M
+t775-6425l,Pittsburgh,Carolina,2015-05-27,10.6,64,M
+d998-8677z,Pittsburgh,Carolina,2015-05-27,8.6,61.5,F
+g416-8053q,Pittsburgh,Carolina,2015-05-27,9.4,60,F
+k155-7667u,Pittsburgh,Carolina,2015-05-28,9.7,60,F
+v274-9978p,Pittsburgh,Black-capped,2015-05-28,11.4,64,M
+k321-5137x,Pittsburgh,Black-capped,2015-05-28,10.9,65.5,M
+v722-2495d,Pittsburgh,Carolina,2015-05-30,10.1,58,F
+d209-5555d,Pittsburgh,Carolina,2015-05-30,10.4,62,M
+a198-3713q,Pittsburgh,Carolina,2015-05-31,9.7,62.5,F
+u507-7877x,Pittsburgh,Carolina,2015-05-31,10.3,64,M
+x571-7669d,Pittsburgh,Carolina,2015-06-01,10.4,62,M
+u288-1447b,Pittsburgh,Carolina,2015-06-01,9.2,58,F
+t372-9883v,Pittsburgh,Carolina,2015-06-01,11.3,64,M
+f708-2551y,Pittsburgh,Carolina,2015-06-01,9.8,60,F
+w383-4232j,Pittsburgh,Carolina,2015-06-02,11.4,64,M
+i303-5108m,Pittsburgh,Carolina,2015-06-02,11.1,66,M
+a668-9569d,Pittsburgh,Black-capped,2015-06-04,11.2,67.5,M
+c627-3324a,Pittsburgh,Black-capped,2015-06-04,11.4,66.5,M
+h280-3530p,Pittsburgh,Black-capped,2015-06-05,10.6,64,M
+o432-9031i,Pittsburgh,Carolina,2015-06-07,9.6,59.5,F
+b216-6063v,Pittsburgh,Carolina,2015-06-07,10.2,63,M
+x478-5913p,Pittsburgh,Carolina,2015-06-08,10.5,60.5,M
+d233-7870b,Pittsburgh,Carolina,2015-06-09,10.7,62.5,M
+h706-3898q,Pittsburgh,Carolina,2015-06-09,9.3,59,F
+q782-3850w,Pittsburgh,Carolina,2015-06-09,10.7,64,M
+e685-2296r,Pittsburgh,Carolina,2015-06-09,10.5,65,M
+w464-4175j,Pittsburgh,Black-capped,2015-06-10,11.3,63,M
+f227-9583s,Pittsburgh,Carolina,2015-06-10,10.8,63.5,M
+a712-8390o,Pittsburgh,Carolina,2015-06-11,10,62,F
+t924-6089z,Pittsburgh,Carolina,2015-06-11,10.7,67,M
+w932-2920s,Pittsburgh,Carolina,2015-06-11,10,62.5,M
+a828-5686a,Pittsburgh,Carolina,2015-06-12,10.5,63.5,M
+u263-8037g,Pittsburgh,Carolina,2015-06-12,10.5,63,M
+c107-1274i,Pittsburgh,Black-capped,2015-06-13,10.1,61,F
+u977-4812w,Pittsburgh,Carolina,2015-06-15,11.1,64,M
+z418-7734k,Pittsburgh,Carolina,2015-06-15,11.4,64.5,M
+f142-7224c,Pittsburgh,Black-capped,2015-06-16,11.8,65,M
+t753-6370h,Pittsburgh,Black-capped,2015-06-16,11.4,66,M
+n748-5030b,Pittsburgh,Carolina,2015-06-16,9.6,61.5,F
+l911-9054v,Pittsburgh,Carolina,2015-06-16,10.4,61.5,M
+c539-5532c,Pittsburgh,Carolina,2015-06-17,9.4,60,F
+n716-5659v,Pittsburgh,Carolina,2015-06-17,9.9,63,M
+w670-5357r,Pittsburgh,Carolina,2015-06-18,8.9,63,F
+t492-4048y,Pittsburgh,Carolina,2015-06-18,10.8,63,M
+s329-8815u,Pittsburgh,Carolina,2015-06-18,10.3,62.5,M
+o381-4149g,Pittsburgh,Black-capped,2015-06-18,10.2,63,F
+x812-6511c,Pittsburgh,Carolina,2015-06-19,10.3,63,M
+y781-4122s,Pittsburgh,Carolina,2015-06-21,11.2,64.5,M
+b222-6327l,Pittsburgh,Carolina,2015-06-21,9.4,59.5,F
+h974-6368i,Pittsburgh,Carolina,2015-06-21,9.7,64.5,M
+k171-6148i,Pittsburgh,Carolina,2015-06-21,10.6,64,M
+f634-1026p,Pittsburgh,Carolina,2015-06-23,10,60,F
+i691-6311a,Pittsburgh,Black-capped,2015-06-24,10.8,67,M
+e240-8797v,Pittsburgh,Carolina,2015-06-24,10.4,60.5,M
+c673-8613l,Pittsburgh,Carolina,2015-06-26,10.8,63,F
+f612-9075f,Pittsburgh,Carolina,2015-06-26,10.9,66,M
+d723-8840e,Pittsburgh,Carolina,2015-06-26,9.8,59,F
+e513-4136e,Pittsburgh,Carolina,2015-06-26,10.9,61,M
+j322-8108b,Pittsburgh,Carolina,2015-06-26,9.8,58.5,F
+s228-9297j,Pittsburgh,Carolina,2015-06-28,10.1,61,F
+d589-9897d,Pittsburgh,Carolina,2015-07-01,11,66,F
+b328-6284w,Pittsburgh,Carolina,2015-07-01,10.1,59,F
+w154-3083q,Pittsburgh,Carolina,2015-07-01,9.7,58.5,F
+e378-3422m,Pittsburgh,Carolina,2015-07-02,10.2,60,F
+u892-7999p,Pittsburgh,Black-capped,2015-07-04,9.9,60.5,F
+j725-7646k,Pittsburgh,Black-capped,2015-07-05,11.4,67,M
+v886-2121j,Pittsburgh,Carolina,2015-07-05,9.6,61.5,F
+y664-6760z,Pittsburgh,Carolina,2015-07-08,11,62,F
+r410-2288q,Pittsburgh,Carolina,2015-07-10,11,63,F
+b491-8838x,Pittsburgh,Carolina,2015-07-10,10.1,65.5,F
+g836-9455i,Pittsburgh,Carolina,2015-07-12,10.2,62,M
+c545-3290e,Pittsburgh,Black-capped,2015-07-17,10,60,F
+b642-2636u,Pittsburgh,Carolina,2015-07-21,11.7,65.5,M
+s484-7875y,Pittsburgh,Carolina,2016-05-17,10.1,58,F
+f846-8037n,Pittsburgh,Carolina,2016-05-17,11.6,61,M
+h474-7913o,Pittsburgh,Carolina,2016-05-18,9.5,62.5,F
+n898-6372a,Pittsburgh,Carolina,2016-05-18,10.2,60.5,F
+p862-7334t,Pittsburgh,Carolina,2016-05-18,10.8,59,F
+e686-5786r,Pittsburgh,Carolina,2016-05-18,9.6,57,F
+j861-1930r,Pittsburgh,Carolina,2016-05-18,10,58.5,F
+s505-5189e,Pittsburgh,Carolina,2016-05-18,10.3,65,M
+n793-4926k,Pittsburgh,Carolina,2016-05-18,10.4,61.5,M
+t890-5289w,Pittsburgh,Carolina,2016-05-18,10.4,63,M
+t762-4735j,Pittsburgh,Carolina,2016-05-18,10.2,62,M
+a256-2981h,Pittsburgh,Carolina,2016-05-19,10.2,64,M
+h103-2261x,Pittsburgh,Carolina,2016-05-19,10.6,62,M
+t205-7382n,Pittsburgh,Carolina,2016-05-19,9.8,62.5,F
+v936-9135k,Pittsburgh,Carolina,2016-05-19,10.5,63,M
+v631-9947u,Pittsburgh,Carolina,2016-05-22,9.3,61,F
+k833-2948u,Pittsburgh,Carolina,2016-05-22,9.8,66,M
+g617-3027y,Pittsburgh,Carolina,2016-05-22,9.8,64,F
+z582-1107f,Pittsburgh,Carolina,2016-05-22,10.1,66,M
+t236-6425z,Pittsburgh,Carolina,2016-05-22,11.5,64,M
+i590-3842i,Pittsburgh,Carolina,2016-05-22,9.6,62,M
+b270-1563t,Pittsburgh,Carolina,2016-05-22,10.8,65,M
+n722-3401r,Pittsburgh,Black-capped,2016-05-25,11.2,63.5,M
+h883-4862f,Pittsburgh,Black-capped,2016-05-28,10.9,66,M
+z318-1293v,Pittsburgh,Carolina,2016-05-28,11,64.5,M
+n699-7020q,Pittsburgh,Carolina,2016-05-28,10.3,60,F
+b429-1529k,Pittsburgh,Carolina,2016-05-28,9.7,57,F
+v837-3941c,Pittsburgh,Carolina,2016-05-28,9.6,62.5,F
+q411-7439l,Pittsburgh,Carolina,2016-05-28,11,63.5,M
+f565-5443d,Pittsburgh,Carolina,2016-05-29,9.1,61.5,F
+s327-7950o,Pittsburgh,Carolina,2016-05-29,10.2,61,M
+t909-5145b,Pittsburgh,Carolina,2016-05-30,9.4,59.5,F
+o996-4479z,Pittsburgh,Carolina,2016-05-30,9.5,59,F
+y636-9261r,Pittsburgh,Carolina,2016-05-30,9.3,60,F
+o556-6780l,Pittsburgh,Carolina,2016-05-30,10.1,60,M
+g668-4811f,Pittsburgh,Carolina,2016-05-30,11.1,64.5,M
+l430-5659d,Pittsburgh,Carolina,2016-06-04,10.6,62,M
+b126-9986y,Pittsburgh,Carolina,2016-06-04,9.4,59.5,F
+u772-7756v,Pittsburgh,Black-capped,2016-06-04,11.5,68,M
+t842-9087a,Pittsburgh,Carolina,2016-06-04,10.3,64,F
+u103-6448d,Pittsburgh,Carolina,2016-06-04,10.6,62,F
+s562-8882e,Pittsburgh,Carolina,2016-06-04,10.1,62.5,M
+j750-7219w,Pittsburgh,Carolina,2016-06-04,10.3,59.5,M
+k113-3287z,Pittsburgh,Black-capped,2016-06-07,11,64.5,M
+c214-9228p,Pittsburgh,Carolina,2016-06-09,11.2,62.5,M
+o910-5567l,Pittsburgh,Carolina,2016-06-09,9.7,58,F
+i233-1474r,Pittsburgh,Carolina,2016-06-09,10.5,62.5,M
+f383-5573f,Pittsburgh,Carolina,2016-06-12,11.5,64,M
+a854-2163t,Pittsburgh,Carolina,2016-06-12,10.1,63,M
+k143-2114i,Pittsburgh,Carolina,2016-06-13,10.6,66,M
+i631-9464r,Pittsburgh,Carolina,2016-06-14,9.9,60,F
+g850-2862j,Pittsburgh,Carolina,2016-06-14,9,59.5,F
+h127-8887j,Pittsburgh,Carolina,2016-06-15,10.9,64,M
+k796-4186s,Pittsburgh,Carolina,2016-06-16,9.2,59,F
+t736-7931y,Pittsburgh,Carolina,2016-06-16,10.7,63,M
+r110-7032d,Pittsburgh,Carolina,2016-06-18,9.3,59.5,F
+q867-3333q,Pittsburgh,Carolina,2016-06-18,9.9,64,M
+s105-7339h,Pittsburgh,Carolina,2016-06-18,10.2,60.5,F
+u557-7065j,Pittsburgh,Black-capped,2016-06-19,10.3,63,F
+l685-8137v,Pittsburgh,Carolina,2016-06-19,10.3,62.5,M
+k457-4854p,Pittsburgh,Black-capped,2016-06-21,10.3,64.5,M
+n390-9873f,Pittsburgh,Carolina,2016-06-21,10.6,65,M
+s668-7683a,Pittsburgh,Carolina,2016-06-21,9.9,58.5,F
+j244-5052c,Pittsburgh,Carolina,2016-06-22,10.3,61.5,F
+o926-9224e,Pittsburgh,Carolina,2016-06-22,11.4,66,M
+g955-5440o,Pittsburgh,Carolina,2016-06-22,10.5,65,M
+i475-4713i,Pittsburgh,Black-capped,2016-06-24,10.7,65,M
+k377-2197e,Pittsburgh,Black-capped,2016-06-24,10.6,61,F
+b826-8421v,Pittsburgh,Carolina,2016-06-25,9.9,59,F
+m910-9974x,Pittsburgh,Carolina,2016-06-25,10,59.5,F
+x195-8066q,Pittsburgh,Carolina,2016-06-26,10.1,64,M
+x834-1655u,Pittsburgh,Carolina,2016-06-26,10,60.5,F
+h387-8995g,Pittsburgh,Carolina,2016-06-27,10,61,F
+m674-8742x,Pittsburgh,Black-capped,2016-06-30,11.3,63,F
+q568-5013z,Pittsburgh,Carolina,2016-06-30,9.6,57.5,F
+f208-5778m,Pittsburgh,Carolina,2016-07-02,9,61,F
+y206-5147j,Pittsburgh,Black-capped,2016-07-05,9.8,62.5,F
+k890-9071b,Pittsburgh,Black-capped,2016-07-05,10.9,65.5,M
+p321-4404q,Pittsburgh,Black-capped,2016-07-05,11.2,65,M
+k965-2584o,Pittsburgh,Carolina,2016-07-08,9.8,57,F
+k154-2922u,Pittsburgh,Black-capped,2016-07-09,10.7,63,M
+d772-4806r,Pittsburgh,Black-capped,2016-07-09,10,65,F
+s359-5169x,Pittsburgh,Carolina,2016-07-13,10.2,63.5,M
+a507-5487t,Pittsburgh,Black-capped,2016-07-28,10.5,63,F
+w565-3610o,Pittsburgh,Carolina,2016-07-28,10.8,62,M
+j954-1308z,Pittsburgh,Carolina,2016-07-29,10,62.5,M
+x550-4800w,Pittsburgh,Black-capped,2016-07-31,12.2,65,M
+i311-2181f,Pittsburgh,Black-capped,2016-08-14,11.5,67,M
+m990-8154m,Pittsburgh,Carolina,2017-05-24,9.9,66,M
+b266-7712h,Pittsburgh,Carolina,2017-05-24,10.1,61,F
+v889-5193z,Pittsburgh,Carolina,2017-05-25,10.2,59,M
+k141-8466r,Pittsburgh,Carolina,2017-05-27,9,57.5,F
+d861-5572k,Pittsburgh,Carolina,2017-05-27,10,64,M
+c581-7225h,Pittsburgh,Carolina,2017-05-28,9.9,59.5,F
+d932-9738z,Pittsburgh,Carolina,2017-05-28,10.1,64,M
+w638-5284c,Pittsburgh,Carolina,2017-05-31,10.4,65,M
+t545-1205a,Pittsburgh,Carolina,2017-05-31,9.8,65,M
+u944-7284i,Pittsburgh,Carolina,2017-06-01,9.8,60,F
+o621-4602h,Pittsburgh,Carolina,2017-06-03,10,61.5,F
+h176-6935h,Pittsburgh,Carolina,2017-06-03,10.4,65,M
+r821-9431w,Pittsburgh,Black-capped,2017-06-03,10.4,66,M
+m617-4742k,Pittsburgh,Carolina,2017-06-03,9.9,59,F
+p175-6483m,Pittsburgh,Carolina,2017-06-04,10.1,61.5,F
+r670-9634c,Pittsburgh,Carolina,2017-06-07,9.7,60,F
+h682-6442p,Pittsburgh,Carolina,2017-06-07,9.3,60,F
+g763-6314y,Pittsburgh,Black-capped,2017-06-13,10.1,62,F
+y280-5803r,Pittsburgh,Black-capped,2017-06-13,11.5,65.5,M
+n922-9244m,Pittsburgh,Black-capped,2017-06-13,12.2,65,M
+m186-2080p,Pittsburgh,Black-capped,2017-06-13,10.9,61.5,F
+w247-1962e,Pittsburgh,Black-capped,2017-06-13,10.9,66,M
+p525-3048k,Pittsburgh,Black-capped,2017-06-15,11.3,65,F
+q836-8365d,Pittsburgh,Carolina,2017-06-16,9.1,58,F
+w957-4089p,Pittsburgh,Carolina,2017-06-16,9.4,59,F
+r203-4984y,Pittsburgh,Carolina,2017-06-16,10.3,62,M
+y521-7341f,Pittsburgh,Carolina,2017-06-16,9.5,61,F
+p918-1027y,Pittsburgh,Carolina,2017-06-17,9.7,60.5,F
+e875-7494q,Pittsburgh,Black-capped,2017-06-17,11.3,68,M
+y529-6164s,Pittsburgh,Black-capped,2017-06-17,10.8,64,M
+k347-6962k,Pittsburgh,Carolina,2017-06-18,11.4,65.5,M
+h219-1309q,Pittsburgh,Carolina,2017-06-19,11,65.5,M
+t362-2654a,Pittsburgh,Carolina,2017-06-19,9.1,61.5,F
+z610-2193m,Pittsburgh,Carolina,2017-06-19,9.1,61,F
+v744-1656u,Pittsburgh,Carolina,2017-06-19,10.2,60.5,F
+u429-6807z,Pittsburgh,Carolina,2017-06-19,11.2,64,M
+t996-4484w,Pittsburgh,Carolina,2017-06-20,9.1,63,F
+m300-5979y,Pittsburgh,Carolina,2017-06-21,9.1,58,F
+o818-8824c,Pittsburgh,Carolina,2017-06-24,11,65,M
+o400-7756l,Pittsburgh,Carolina,2017-06-24,10,61.5,F
+g410-1674c,Pittsburgh,Carolina,2017-06-24,10.3,62,F
+i681-2093k,Pittsburgh,Carolina,2017-06-25,10.2,63,M
+a335-2977s,Pittsburgh,Carolina,2017-06-26,10.2,62,M
+b978-8601s,Pittsburgh,Carolina,2017-06-26,9.2,56,F
+x371-6432g,Pittsburgh,Carolina,2017-06-29,10.7,57,F
+p170-8980l,Pittsburgh,Carolina,2017-06-30,9.6,62,F
+v779-2231w,Pittsburgh,Carolina,2017-07-01,9.7,62,F
+w218-8667k,Pittsburgh,Carolina,2017-07-04,11.1,65,M
+f919-5507o,Pittsburgh,Carolina,2017-07-08,9.8,60,F
+d758-9454c,Pittsburgh,Carolina,2017-07-11,8.4,62,F
+q499-6798e,Pittsburgh,Carolina,2017-07-25,11.3,65.5,M
+x205-9605w,Raleigh,Carolina,2015-04-18,11,58,F
+a932-4646j,Raleigh,Carolina,2015-04-29,9.4,60,M
+v689-2173p,Raleigh,Carolina,2015-04-29,9.9,61,M
+x594-2912p,Raleigh,Carolina,2015-05-02,9.4,57,F
+m993-5370i,Raleigh,Carolina,2015-05-05,8.3,57,F
+q203-6429p,Raleigh,Carolina,2015-05-06,8.8,59,M
+z662-2937c,Raleigh,Carolina,2015-05-07,10,61,M
+q475-1088d,Raleigh,Carolina,2015-05-09,9.3,61,M
+k880-7045r,Raleigh,Carolina,2015-05-12,10.1,58,F
+f815-2128p,Raleigh,Carolina,2015-05-12,8.6,58,F
+y989-7843f,Raleigh,Carolina,2015-05-12,8.7,56,M
+v596-5795a,Raleigh,Carolina,2015-05-13,9.8,60,M
+q892-5050l,Raleigh,Carolina,2015-05-13,9.8,61,M
+k630-6694o,Raleigh,Carolina,2015-05-19,9.2,62,M
+m106-6097q,Raleigh,Carolina,2015-05-19,9.3,62,M
+e551-8828k,Raleigh,Carolina,2015-05-25,9.7,58,M
+b377-8293v,Raleigh,Carolina,2015-05-26,10.2,61,M
+v448-6201w,Raleigh,Carolina,2015-06-02,9.4,56,F
+t510-8367s,Raleigh,Carolina,2015-06-04,8.6,58,F
+z629-4260e,Raleigh,Carolina,2015-06-04,9.1,58,F
+w293-4735f,Raleigh,Carolina,2015-06-04,9.1,58,F
+f193-3817h,Raleigh,Carolina,2015-06-05,8.6,56,F
+d673-2928x,Raleigh,Carolina,2015-06-06,9,56,F
+w144-8949c,Raleigh,Carolina,2015-06-16,8.4,55,F
+f759-9441f,Raleigh,Carolina,2015-06-19,9.7,61,F
+u806-6225n,Raleigh,Carolina,2015-07-17,9.6,57,F
+j661-5448q,Raleigh,Carolina,2016-04-23,9.5,62,M
+b951-7122k,Raleigh,Carolina,2016-04-27,10,63,M
+q815-4950k,Raleigh,Carolina,2016-04-27,10.3,59,F
+f500-8281p,Raleigh,Carolina,2016-04-27,9.6,62,M
+r470-8971f,Raleigh,Carolina,2016-04-30,9.2,55,F
+x287-5235c,Raleigh,Carolina,2016-04-30,9.5,59,M
+w715-8345a,Raleigh,Carolina,2016-05-02,8.6,54,F
+e623-9758w,Raleigh,Carolina,2016-05-02,10.3,60,M
+j350-7103b,Raleigh,Carolina,2016-05-02,9.7,61,M
+j342-9412v,Raleigh,Carolina,2016-05-02,8.9,57,F
+h661-9403s,Raleigh,Carolina,2016-05-07,10,63,M
+d654-1417z,Raleigh,Carolina,2016-05-07,9.6,58,F
+r458-8272y,Raleigh,Carolina,2016-05-07,9.5,58,F
+l759-3288p,Raleigh,Carolina,2016-05-09,9.1,61,F
+x875-1700k,Raleigh,Carolina,2016-05-10,9.3,59,M
+k322-1014i,Raleigh,Carolina,2016-05-11,8.8,58,F
+u368-1968e,Raleigh,Carolina,2016-05-11,9.6,59,M
+l153-3177m,Raleigh,Carolina,2016-05-12,9.2,61,F
+c942-1687w,Raleigh,Carolina,2016-05-12,10.2,60,M
+l149-7311m,Raleigh,Carolina,2016-05-12,9.6,63,M
+k399-7419g,Raleigh,Carolina,2016-05-13,9.8,62,M
+z780-9933w,Raleigh,Carolina,2016-05-13,9.8,59,F
+d503-3602y,Raleigh,Carolina,2016-05-13,8.9,58,F
+m358-7044d,Raleigh,Carolina,2016-05-18,8.4,61,F
+v986-6584s,Raleigh,Carolina,2016-05-18,9.7,63,M
+e798-6356g,Raleigh,Carolina,2016-05-20,9.8,61,M
+o178-2857f,Raleigh,Carolina,2016-05-21,8,58,F
+q562-3494z,Raleigh,Carolina,2016-05-21,9,60,F
+g194-2094x,Raleigh,Carolina,2016-05-21,10.4,61,M
+d281-2120u,Raleigh,Carolina,2016-05-27,8.9,61,M
+f842-9201y,Raleigh,Carolina,2016-05-27,8.6,58,F
+o603-1892o,Raleigh,Carolina,2016-05-31,11.2,62,M
+s549-7477y,Raleigh,Carolina,2016-06-01,8.8,59,F
+v370-9008b,Raleigh,Carolina,2016-06-01,9.8,58,F
+c965-1321v,Raleigh,Carolina,2016-06-03,9.3,62,M
+p848-7741t,Raleigh,Carolina,2016-06-04,9.5,59,F
+s367-2472o,Raleigh,Carolina,2016-06-04,9,58,F
+y331-9857e,Raleigh,Carolina,2016-06-08,9.9,62,F
+o739-3783v,Raleigh,Carolina,2016-06-10,9.3,60,F
+o231-9648p,Raleigh,Carolina,2016-06-10,9.1,55,F
+m894-7491z,Raleigh,Carolina,2016-06-11,9.1,61,F
+k394-9471o,Raleigh,Carolina,2016-06-11,9.1,61,F
+l574-3341m,Raleigh,Carolina,2016-06-11,9.2,59,F
+m548-9201l,Raleigh,Carolina,2016-06-18,10.5,62,F
+d661-1205p,Raleigh,Carolina,2017-04-11,9.7,62,M
+f951-5803z,Raleigh,Carolina,2017-04-12,10,63,M
+o306-5007d,Raleigh,Carolina,2017-04-12,9.8,60,F
+l106-3613n,Raleigh,Carolina,2017-04-14,8.8,62,M
+u211-3156u,Raleigh,Carolina,2017-04-14,8.3,58,M
+p757-9491n,Raleigh,Carolina,2017-04-15,9.8,62,M
+z514-9540p,Raleigh,Carolina,2017-04-19,9.7,60,M
+n303-6904q,Raleigh,Carolina,2017-04-19,9.4,61,M
+h444-1304r,Raleigh,Carolina,2017-04-30,9.2,62,M
+t724-2899e,Raleigh,Carolina,2017-05-01,9.5,61,M
+z262-4541q,Raleigh,Carolina,2017-05-07,9.2,59,M
+s655-2665p,Raleigh,Carolina,2017-05-08,8.5,57,F
+s375-2339a,Raleigh,Carolina,2017-05-08,8.3,56,M
+c365-9234m,Raleigh,Carolina,2017-05-10,8.8,61,F
+h767-4997m,Raleigh,Carolina,2017-05-15,8.9,56,F
+l937-8876h,Raleigh,Carolina,2017-05-15,9.2,61,M
+r572-2104h,Raleigh,Carolina,2017-05-15,9.3,62,M
+y450-4313p,Raleigh,Carolina,2017-05-15,9.3,60,M
+c951-7928f,Raleigh,Carolina,2017-05-15,9.3,62,M
+q583-8200h,Raleigh,Carolina,2017-05-19,10,64,M
+g780-6983i,Raleigh,Carolina,2017-05-20,8.2,58,F
+d808-7386a,Raleigh,Carolina,2017-05-20,10,60,M
+o490-6283r,Springfield,Black-capped,2012-05-15,11.75,65,M
+l423-6241l,Springfield,Black-capped,2012-05-21,11.6,67,M
+b691-1769z,Springfield,Black-capped,2012-05-25,12.8,66,M
+k418-7630b,Springfield,Black-capped,2012-05-31,11.9,67,M
+f770-5565z,Springfield,Black-capped,2012-06-01,10.6,68,M
+o134-7828v,Springfield,Black-capped,2012-06-07,12,61,F
+d674-5812u,Springfield,Black-capped,2012-06-19,11.6,65,M
+a667-3597e,Springfield,Black-capped,2012-06-23,10,62,F
+i393-8800x,Springfield,Black-capped,2012-06-23,10.9,62,F
+l263-4392v,Springfield,Black-capped,2012-06-23,10.1,59,F
+o670-2374n,Springfield,Black-capped,2012-06-26,11,64,F
+j872-7200j,Springfield,Black-capped,2012-06-29,11.11,65,F
+o502-4237e,Springfield,Black-capped,2012-06-30,9.64,60,F
+e853-7315e,Springfield,Black-capped,2012-06-30,11.55,65,F
+d519-9876t,Springfield,Black-capped,2012-07-03,10,61,F
+k848-4836z,Springfield,Black-capped,2012-07-03,11,64,F
+s849-3706h,Springfield,Black-capped,2012-07-04,9.18,62,F
+r462-3772c,Springfield,Black-capped,2012-07-08,12,66,M
+s620-6907j,Springfield,Black-capped,2012-07-08,11,65,F
+w595-1963g,Springfield,Black-capped,2012-07-08,10,63,F
+k921-4905t,Springfield,Black-capped,2012-07-08,11.69,66,F
+i379-6495z,Springfield,Black-capped,2012-07-10,11,58,F
+m115-2115z,Springfield,Black-capped,2012-07-12,11.14,65,F
+o492-5422q,Springfield,Black-capped,2012-07-14,11.66,65,M
+p610-7886d,Springfield,Black-capped,2012-07-14,11.81,67,M
+c716-3814j,Springfield,Black-capped,2012-07-14,10.41,67,F
+i695-6483y,Springfield,Black-capped,2012-07-17,9.71,65,F
+j707-5011v,Springfield,Black-capped,2012-07-17,10.22,66,F
+w376-7670u,Springfield,Black-capped,2012-07-19,10.74,66,M
+v582-6771b,Springfield,Black-capped,2012-07-20,11.64,66,M
+y586-8066j,Springfield,Black-capped,2013-05-15,11.06,64,M
+n532-7111o,Springfield,Black-capped,2013-05-20,12.21,68,M
+s193-4102u,Springfield,Black-capped,2013-05-21,11.87,66,M
+o976-3577e,Springfield,Black-capped,2013-05-23,12.12,65.5,M
+g773-9777f,Springfield,Black-capped,2013-05-24,12.3,68,M
+m311-8020c,Springfield,Black-capped,2013-05-24,11.81,64,M
+l601-1196c,Springfield,Black-capped,2013-06-01,10.45,61,F
+p494-9188f,Springfield,Black-capped,2013-06-01,11.08,63,M
+f165-8210b,Springfield,Black-capped,2013-06-04,11.83,64,M
+i913-7515f,Springfield,Black-capped,2013-06-05,11.75,64,M
+v764-7478f,Springfield,Black-capped,2013-06-06,12.07,65,M
+k697-9668g,Springfield,Black-capped,2013-06-06,11.85,66,M
+b958-4597w,Springfield,Black-capped,2013-06-08,11.77,66,M
+u108-6764l,Springfield,Black-capped,2013-06-09,11.65,65,M
+m614-5045w,Springfield,Black-capped,2013-06-10,10.98,66,M
+m502-5811n,Springfield,Black-capped,2013-06-12,11.5,66,M
+n303-3325b,Springfield,Black-capped,2013-06-15,12.07,67,M
+q179-1555g,Springfield,Black-capped,2013-06-17,10.96,67,M
+d736-8370m,Springfield,Black-capped,2013-06-21,10.67,63,F
+x731-1295f,Springfield,Black-capped,2013-06-21,11.35,63,F
+i673-4579w,Springfield,Black-capped,2013-06-21,11.29,65,F
+f570-9932b,Springfield,Black-capped,2013-06-21,11.5,67,M
+g360-5190m,Springfield,Black-capped,2013-06-22,11.51,66,M
+w162-4031z,Springfield,Black-capped,2013-06-23,11.08,63,M
+s261-7518q,Springfield,Black-capped,2013-06-23,10.46,62,F
+t611-9956d,Springfield,Black-capped,2013-06-23,10.86,58,F
+f613-7789h,Springfield,Black-capped,2013-06-23,12.05,67,M
+n397-4415n,Springfield,Black-capped,2013-06-24,11.51,65,F
+c206-5063v,Springfield,Black-capped,2013-06-25,11.88,65,M
+g295-2398c,Springfield,Black-capped,2013-06-26,11.81,66,M
+l787-2006f,Springfield,Black-capped,2013-06-26,10.74,66,M
+c181-6428a,Springfield,Black-capped,2013-06-27,11.52,66,M
+z476-1852i,Springfield,Black-capped,2013-07-01,12.71,67,M
+j938-2677o,Springfield,Black-capped,2013-07-03,10.23,64,M
+i230-3444z,Springfield,Black-capped,2013-07-04,11.88,65,M
+y568-8123q,Springfield,Black-capped,2013-07-04,11.41,65,M
+m842-6987p,Springfield,Black-capped,2013-07-06,11.04,66,M
+i208-8529w,Springfield,Black-capped,2013-07-06,11.13,68,F
+y419-4647p,Springfield,Black-capped,2013-07-10,11.32,63,M
+w323-1486l,Springfield,Black-capped,2013-07-10,10.96,62,F
+r445-9267g,Springfield,Black-capped,2013-07-10,11.57,68,M
+p805-1823z,Springfield,Black-capped,2013-07-10,9.97,63,F
+a268-8612j,Springfield,Black-capped,2013-07-14,10.53,64,F
+f861-2821s,Springfield,Black-capped,2013-07-17,11.3,66,M
+x360-8948u,Springfield,Black-capped,2013-07-20,9.51,60,F
+j655-2480c,Springfield,Black-capped,2013-07-26,11.39,68,F
+z505-9985d,Springfield,Black-capped,2013-07-29,11.21,64,M
+o567-4260h,Springfield,Black-capped,2013-07-30,10.03,62,F
+z377-1992y,Springfield,Black-capped,2013-08-05,11.32,65,M
+y461-7028l,Springfield,Black-capped,2014-05-13,12.13,65,M
+x586-8315h,Springfield,Black-capped,2014-05-15,11.58,64,M
+w642-5013i,Springfield,Black-capped,2014-05-15,12.05,58,F
+e320-8899b,Springfield,Black-capped,2014-05-21,10.84,62,M
+g617-6862n,Springfield,Black-capped,2014-05-22,11.56,65,M
+l679-6416b,Springfield,Black-capped,2014-05-23,11.65,62,F
+e897-2237w,Springfield,Black-capped,2014-05-24,11.17,67,M
+m211-9854t,Springfield,Black-capped,2014-05-27,11.21,63,M
+o958-2452y,Springfield,Black-capped,2014-05-28,11.54,66,M
+m883-4773w,Springfield,Black-capped,2014-05-28,11.04,67,M
+k401-4739o,Springfield,Black-capped,2014-05-29,11.43,65,M
+a857-1562d,Springfield,Black-capped,2014-05-30,11.04,65,M
+y607-8421z,Springfield,Black-capped,2014-05-30,11.35,65,M
+a285-6735d,Springfield,Black-capped,2014-05-31,12.03,64,M
+e274-6057v,Springfield,Black-capped,2014-05-31,11.33,65,M
+p425-5243p,Springfield,Black-capped,2014-06-01,12.36,65,M
+p744-9761r,Springfield,Black-capped,2014-06-01,11.37,64,M
+w336-7189h,Springfield,Black-capped,2014-06-01,11.91,67,M
+n815-3844y,Springfield,Black-capped,2014-06-02,12.19,65,M
+m379-3810w,Springfield,Black-capped,2014-06-02,11.08,63,M
+e993-2353e,Springfield,Black-capped,2014-06-03,11.56,64,M
+v958-2117s,Springfield,Black-capped,2014-06-03,11.29,65,M
+i663-6482a,Springfield,Black-capped,2014-06-07,11.43,65,M
+e184-2539v,Springfield,Black-capped,2014-06-07,12.4,65,M
+n614-6583m,Springfield,Black-capped,2014-06-07,10.97,64,M
+v466-2297l,Springfield,Black-capped,2014-06-09,11.63,63,M
+w196-8172a,Springfield,Black-capped,2014-06-11,11.08,66,M
+q706-7052l,Springfield,Black-capped,2014-06-11,11.8,66,M
+f838-3144o,Springfield,Black-capped,2014-06-11,11.62,67,M
+a843-3469o,Springfield,Black-capped,2014-06-11,11.05,62,F
+a891-2437i,Springfield,Black-capped,2014-06-13,11.81,65,M
+x566-2329m,Springfield,Black-capped,2014-06-13,11.57,63,F
+o303-9102y,Springfield,Black-capped,2014-06-14,12.5,65,M
+b825-5868l,Springfield,Black-capped,2014-06-16,12.13,64,M
+s225-6438w,Springfield,Black-capped,2014-06-16,10.62,61,F
+k660-5064j,Springfield,Black-capped,2014-06-17,11.75,66,M
+f871-5897z,Springfield,Black-capped,2014-06-17,11.62,66,M
+h893-3054x,Springfield,Black-capped,2014-06-17,11.8,65,M
+i963-2311w,Springfield,Black-capped,2014-06-19,10.54,62,F
+b890-9747t,Springfield,Black-capped,2014-06-19,10.24,63,F
+a504-3841d,Springfield,Black-capped,2014-06-19,11.03,64,F
+t144-4346w,Springfield,Black-capped,2014-06-19,11.39,63,M
+e396-4898r,Springfield,Black-capped,2014-06-19,11.96,67,M
+h387-2756v,Springfield,Black-capped,2014-06-20,12.08,65,M
+s707-8802w,Springfield,Black-capped,2014-06-20,10.88,63,F
+g707-8678x,Springfield,Black-capped,2014-06-24,11.33,65,M
+n744-8611y,Springfield,Black-capped,2014-06-26,12.12,63,M
+d806-1954e,Springfield,Black-capped,2014-06-27,11.38,65,M
+o529-2508e,Springfield,Black-capped,2014-06-30,11.76,65,M
+c791-5811r,Springfield,Black-capped,2014-07-07,12.26,67,M
+h676-5567z,Springfield,Black-capped,2014-07-08,12.05,64,M
+d396-2474v,Springfield,Black-capped,2014-07-09,10.17,61,F
+f492-4514v,Springfield,Black-capped,2014-07-09,11.75,66,M
+b534-4154f,Springfield,Black-capped,2014-07-13,11.78,64,M
+y763-7799k,Springfield,Black-capped,2014-07-18,12.38,64,F
+b687-3060i,Springfield,Black-capped,2014-07-18,11.94,65,F
+n699-5764r,Springfield,Black-capped,2014-07-18,10.78,60,F
+g280-7374n,Springfield,Black-capped,2014-07-19,9.6,61,F
+e950-6341o,Springfield,Black-capped,2014-07-20,11.3,64,M
+z193-2088j,Springfield,Black-capped,2014-07-22,11.25,65,F
+h124-3658q,Springfield,Black-capped,2014-07-22,12.15,64,F
+j255-5041y,Springfield,Black-capped,2015-05-05,12.32,64,M
+s321-1344u,Springfield,Black-capped,2015-05-05,12.35,65,M
+x561-5418o,Springfield,Black-capped,2015-05-06,10.88,62,M
+i194-3924w,Springfield,Black-capped,2015-05-06,12.89,67,M
+c498-1780j,Springfield,Black-capped,2015-05-06,11.85,68,M
+d473-2500x,Springfield,Black-capped,2015-05-06,12.5,66,M
+y445-3063r,Springfield,Black-capped,2015-05-06,11.66,60,F
+y170-9926z,Springfield,Black-capped,2015-05-06,10.72,62,M
+w194-5693n,Springfield,Black-capped,2015-05-08,12.06,67,M
+d738-8038a,Springfield,Black-capped,2015-05-08,12.37,65,M
+r674-6950x,Springfield,Black-capped,2015-05-09,11.49,62,M
+y629-2909q,Springfield,Black-capped,2015-05-12,10.91,65,M
+e134-3316q,Springfield,Black-capped,2015-05-13,12.49,61,F
+j885-5672k,Springfield,Black-capped,2015-05-13,10.49,66,M
+m885-5235l,Springfield,Black-capped,2015-05-13,12.08,65,M
+i488-5339x,Springfield,Black-capped,2015-05-14,11.22,65,M
+c237-3783g,Springfield,Black-capped,2015-05-16,11.54,64,M
+d248-9114w,Springfield,Black-capped,2015-05-16,11.92,66,M
+c675-7531v,Springfield,Black-capped,2015-05-16,11.38,67,M
+m603-3309r,Springfield,Black-capped,2015-05-16,11.45,62,F
+e263-1049s,Springfield,Black-capped,2015-05-18,12.65,65,F
+l771-9106j,Springfield,Black-capped,2015-05-18,11.72,64,M
+k983-9857b,Springfield,Black-capped,2015-05-18,11.55,67,M
+a546-9808v,Springfield,Black-capped,2015-05-18,11.8,60,F
+b296-2744x,Springfield,Black-capped,2015-05-18,10.88,60,F
+n867-2477f,Springfield,Black-capped,2015-05-18,12.68,62,M
+h886-6094w,Springfield,Black-capped,2015-05-21,12.05,61,F
+i913-3644v,Springfield,Black-capped,2015-05-21,11.45,65,M
+e850-4719s,Springfield,Black-capped,2015-05-21,11.5,66,M
+a290-6395c,Springfield,Black-capped,2015-05-21,12.05,68.5,M
+w161-3607i,Springfield,Black-capped,2015-05-22,12.89,65,M
+i123-3339o,Springfield,Black-capped,2015-05-23,12.21,67.5,M
+r832-2818q,Springfield,Black-capped,2015-05-23,10.82,60,F
+w215-5078f,Springfield,Black-capped,2015-05-25,11.77,65,M
+g226-3736t,Springfield,Black-capped,2015-05-25,11.63,65,M
+u557-9670z,Springfield,Black-capped,2015-05-26,12.63,62.5,F
+x169-3293b,Springfield,Black-capped,2015-05-26,12.02,67,M
+f626-1882h,Springfield,Black-capped,2015-05-26,11.29,66,M
+v966-4547c,Springfield,Black-capped,2015-05-26,11.19,63,M
+r421-2407h,Springfield,Black-capped,2015-05-27,11.7,64,M
+t294-2565m,Springfield,Black-capped,2015-05-28,12.44,65,M
+f207-1893k,Springfield,Black-capped,2015-05-28,12.69,67,M
+x976-3038d,Springfield,Black-capped,2015-05-28,11.77,64,M
+g467-1839a,Springfield,Black-capped,2015-05-28,12.36,64,M
+j477-3454f,Springfield,Black-capped,2015-05-28,10.72,64,F
+w618-2777p,Springfield,Black-capped,2015-05-28,11.47,66,M
+a193-5328d,Springfield,Black-capped,2015-05-28,11.87,62,M
+p279-9002o,Springfield,Black-capped,2015-05-29,10.15,62,F
+p912-7277s,Springfield,Black-capped,2015-05-29,12.03,66,M
+f231-5062w,Springfield,Black-capped,2015-05-30,11.49,59,F
+a543-2071r,Springfield,Black-capped,2015-06-02,11.48,66,M
+g809-1425u,Springfield,Black-capped,2015-06-04,11.72,67,M
+h480-9898x,Springfield,Black-capped,2015-06-05,11.43,60,F
+w548-4453v,Springfield,Black-capped,2015-06-05,11.41,66,M
+m978-7894x,Springfield,Black-capped,2015-06-06,11.54,61,F
+f715-7172a,Springfield,Black-capped,2015-06-06,11.98,62,F
+p835-7590s,Springfield,Black-capped,2015-06-06,12.5,65,M
+f353-7416r,Springfield,Black-capped,2015-06-07,12.54,63,F
+h236-3716b,Springfield,Black-capped,2015-06-09,11.55,65,M
+k621-2287n,Springfield,Black-capped,2015-06-11,12.07,67,M
+i800-9698q,Springfield,Black-capped,2015-06-11,10.71,63,M
+i195-1487u,Springfield,Black-capped,2015-06-13,11.01,64,M
+x974-9875e,Springfield,Black-capped,2015-06-13,9.99,60,F
+o657-2073v,Springfield,Black-capped,2015-06-13,10.31,68,M
+o978-8811d,Springfield,Black-capped,2015-06-13,11.95,65,M
+f123-6222l,Springfield,Black-capped,2015-06-14,11.42,65,M
+m357-5289x,Springfield,Black-capped,2015-06-16,11.67,62,M
+j117-9411b,Springfield,Black-capped,2015-06-16,11.15,65,F
+r142-3829k,Springfield,Black-capped,2015-06-17,11.8,66,M
+y976-5070e,Springfield,Black-capped,2015-06-20,10.95,65,M
+e403-8055d,Springfield,Black-capped,2015-06-20,12,62,F
+j974-3156o,Springfield,Black-capped,2015-06-20,11.86,66,M
+d545-6610i,Springfield,Black-capped,2015-06-20,11.63,65,M
+j980-5882c,Springfield,Black-capped,2015-06-20,12,66,M
+e607-2699j,Springfield,Black-capped,2015-06-20,12.44,64,M
+c411-5392s,Springfield,Black-capped,2015-06-25,12.1,66,M
+d928-7758v,Springfield,Black-capped,2015-06-27,11.46,66,M
+n108-3398a,Springfield,Black-capped,2015-06-27,11.8,67,M
+c467-8615e,Springfield,Black-capped,2015-06-27,10.08,60,F
+e580-3434i,Springfield,Black-capped,2015-07-02,12.36,66,M
+a822-9712j,Springfield,Black-capped,2015-07-03,9.54,62,F
+d972-2822f,Springfield,Black-capped,2015-07-07,10.57,62,M
+h198-1644h,Springfield,Black-capped,2015-07-08,10.97,67,F
+i425-9667x,Springfield,Black-capped,2015-07-09,10.47,67,F
+j795-9821y,Springfield,Black-capped,2015-07-09,11.37,67,M
+g387-1069l,Springfield,Black-capped,2015-07-09,11.06,60,F
+j555-2567c,Springfield,Black-capped,2015-07-13,11.3,67,M
+s606-5090x,Springfield,Black-capped,2015-07-14,11.52,66,M
+o939-1750j,Springfield,Black-capped,2015-07-16,10.09,62,F
+u122-4872w,Springfield,Black-capped,2015-07-17,11.02,61.5,F
+w312-4562p,Springfield,Black-capped,2015-07-18,10.82,64,F
+u850-3311l,Springfield,Black-capped,2015-07-19,11.66,67,M
+f989-6295x,Springfield,Black-capped,2015-07-20,10.25,62,F
+c188-9437s,Springfield,Black-capped,2015-07-21,11.35,65,M
+m617-5244i,Springfield,Black-capped,2015-07-29,11.66,65,M
+i755-6463y,Springfield,Black-capped,2015-07-30,11.81,65,M
+j264-8391q,Springfield,Black-capped,2016-05-12,11.61,66,M
+m526-7035r,Springfield,Black-capped,2016-05-16,11.2,63,M
+f178-2290p,Springfield,Black-capped,2016-05-18,11.9,64,M
+j938-8331n,Springfield,Black-capped,2016-05-18,12.2,58,F
+h588-6712x,Springfield,Black-capped,2016-05-19,12.2,66,M
+l644-2707w,Springfield,Black-capped,2016-05-20,11.9,62,M
+u224-6752e,Springfield,Black-capped,2016-05-22,12.1,67,M
+c118-6229p,Springfield,Black-capped,2016-05-23,11.4,65,M
+j629-6136b,Springfield,Black-capped,2016-05-23,11.9,66,M
+j944-7952l,Springfield,Black-capped,2016-05-24,12.5,66,M
+h510-4132u,Springfield,Black-capped,2016-05-24,11.5,64.5,M
+x755-6397x,Springfield,Black-capped,2016-05-25,11.7,63,M
+h791-9043c,Springfield,Black-capped,2016-05-25,12.5,66,M
+q154-2252w,Springfield,Black-capped,2016-05-25,12.1,65,M
+b576-9867g,Springfield,Black-capped,2016-05-25,12.2,68,M
+r397-3560u,Springfield,Black-capped,2016-05-26,11.9,66,M
+w441-7765t,Springfield,Black-capped,2016-05-26,12.1,61,F
+y840-8847e,Springfield,Black-capped,2016-05-26,12.1,65,M
+x595-3223y,Springfield,Black-capped,2016-05-26,11.4,66,M
+e237-5622q,Springfield,Black-capped,2016-05-27,11.6,67,M
+r359-8199m,Springfield,Black-capped,2016-05-27,10.7,64,F
+s289-8544k,Springfield,Black-capped,2016-05-27,11.5,65,M
+n949-9361r,Springfield,Black-capped,2016-05-29,10.9,64,F
+l882-1566g,Springfield,Black-capped,2016-05-31,11.1,62,F
+t518-7318e,Springfield,Black-capped,2016-05-31,11.8,64,M
+i694-1230u,Springfield,Black-capped,2016-05-31,11.3,66,M
+e658-2430h,Springfield,Black-capped,2016-06-01,11.6,63,M
+b905-8642w,Springfield,Black-capped,2016-06-02,10.9,61,F
+j747-3447p,Springfield,Black-capped,2016-06-02,11.5,67,M
+x961-1460j,Springfield,Black-capped,2016-06-02,11.6,65,M
+f254-6411z,Springfield,Black-capped,2016-06-03,11.5,65,M
+i473-3969d,Springfield,Black-capped,2016-06-03,10.5,61,F
+l638-4345g,Springfield,Black-capped,2016-06-04,11.2,63,F
+r467-6257h,Springfield,Black-capped,2016-06-04,12.4,66,M
+j461-1061j,Springfield,Black-capped,2016-06-06,11.6,63,M
+x279-6052r,Springfield,Black-capped,2016-06-06,11.4,66,M
+d691-8197z,Springfield,Black-capped,2016-06-07,10.1,62,F
+c969-4122p,Springfield,Black-capped,2016-06-07,11.9,66,M
+r401-2177r,Springfield,Black-capped,2016-06-07,10.8,64,M
+x543-3514x,Springfield,Black-capped,2016-06-07,11.3,67,M
+u485-1381w,Springfield,Black-capped,2016-06-08,10.7,68,M
+s467-1934w,Springfield,Black-capped,2016-06-08,11.4,66,M
+w780-1502f,Springfield,Black-capped,2016-06-08,11.9,66,M
+g660-1852x,Springfield,Black-capped,2016-06-10,12.1,65,M
+a473-6061e,Springfield,Black-capped,2016-06-10,10.9,67,M
+u780-4271s,Springfield,Black-capped,2016-06-11,12,66,M
+i789-3268j,Springfield,Black-capped,2016-06-11,12.1,68,M
+z289-7180l,Springfield,Black-capped,2016-06-11,10.7,62,F
+z938-3915g,Springfield,Black-capped,2016-06-11,12,65,M
+s104-8028g,Springfield,Black-capped,2016-06-12,11.7,66,M
+a766-1212o,Springfield,Black-capped,2016-06-12,10.5,64,F
+v904-6261y,Springfield,Black-capped,2016-06-12,12.4,67,M
+d350-6985n,Springfield,Black-capped,2016-06-15,10.6,63,F
+f145-9692l,Springfield,Black-capped,2016-06-16,11.5,62,F
+j659-1910v,Springfield,Black-capped,2016-06-16,10.9,65,M
+w110-2472j,Springfield,Black-capped,2016-06-16,11.6,63,M
+p173-5405x,Springfield,Black-capped,2016-06-17,10.9,65,M
+x574-5322t,Springfield,Black-capped,2016-06-17,11.3,66,F
+r316-6136w,Springfield,Black-capped,2016-06-17,12.5,67,F
+h567-4038x,Springfield,Black-capped,2016-06-20,11.5,65,M
+q686-7249a,Springfield,Black-capped,2016-06-20,11.6,68,M
+d744-6761c,Springfield,Black-capped,2016-06-20,11.2,63,F
+u863-1047z,Springfield,Black-capped,2016-06-20,11,63,F
+f983-4773b,Springfield,Black-capped,2016-06-21,11.6,64,M
+a646-6523y,Springfield,Black-capped,2016-06-21,11.8,68,M
+d240-1697w,Springfield,Black-capped,2016-06-23,10.7,64,F
+v846-6675z,Springfield,Black-capped,2016-06-23,11.6,65,F
+g535-9573v,Springfield,Black-capped,2016-06-23,11.2,62,F
+v899-3792m,Springfield,Black-capped,2016-06-25,12.4,66,F
+i270-2231e,Springfield,Black-capped,2016-06-25,11.7,66,F
+b488-9581v,Springfield,Black-capped,2016-06-26,11.8,65,F
+i404-4738f,Springfield,Black-capped,2016-06-26,11.1,63,F
+t333-2389u,Springfield,Black-capped,2016-06-26,11.6,67,M
+t215-6468n,Springfield,Black-capped,2016-06-26,10,62,F
+y693-3179k,Springfield,Black-capped,2016-06-27,10.7,66,F
+k321-2763o,Springfield,Black-capped,2016-06-27,12,65,M
+v101-3633w,Springfield,Black-capped,2016-06-27,10.7,63,F
+o685-2802z,Springfield,Black-capped,2016-06-28,10.7,62,F
+z323-7723j,Springfield,Black-capped,2016-06-28,11.2,65,F
+e637-8664x,Springfield,Black-capped,2016-06-30,11.8,64,F
+d452-3519z,Springfield,Black-capped,2016-06-30,9.7,62,F
+j443-1425i,Springfield,Black-capped,2016-07-01,10.8,62,F
+m148-8901j,Springfield,Black-capped,2016-07-01,11.5,65,M
+x792-2012a,Springfield,Black-capped,2016-07-01,11.2,62,F
+r306-7112j,Springfield,Black-capped,2016-07-02,10.9,61,F
+h604-4761n,Springfield,Black-capped,2016-07-02,10.5,61,F
+n239-2590p,Springfield,Black-capped,2016-07-04,9.4,61,F
+s851-1681l,Springfield,Black-capped,2016-07-06,11,63,F
+r979-2742t,Springfield,Black-capped,2016-07-06,11.5,64,F
+v827-3714r,Springfield,Black-capped,2016-07-06,11.1,67,M
+r966-1617x,Springfield,Black-capped,2016-07-06,11.2,63,F
+s621-4778d,Springfield,Black-capped,2016-07-06,10.1,61,F
+r646-2111f,Springfield,Black-capped,2016-07-06,11,61,F
+m958-8432v,Springfield,Black-capped,2016-07-08,12.2,64,F
+d380-9894l,Springfield,Black-capped,2016-07-08,11.5,66,F
+f651-1548f,Springfield,Black-capped,2016-07-08,12.2,62,F
+f765-9739s,Springfield,Black-capped,2016-07-08,9.5,62,F
+b985-2203m,Springfield,Black-capped,2016-07-09,10.4,65,F
+u463-5914w,Springfield,Black-capped,2016-07-09,10.8,64,F
+d164-9948u,Springfield,Black-capped,2016-07-10,11.6,67,F
+f297-9717w,Springfield,Black-capped,2016-07-10,10.9,65,F
+i467-3409h,Springfield,Black-capped,2016-07-10,10.8,62,F
+c960-7321w,Springfield,Black-capped,2016-07-11,10.6,64,F
+h598-9485u,Springfield,Black-capped,2016-07-11,10.5,65,F
+v365-2536x,Springfield,Black-capped,2016-07-12,12,65,F
+o733-1135i,Springfield,Black-capped,2016-07-12,11.1,62,F
+x583-3374c,Springfield,Black-capped,2016-07-12,11.4,67,F
+u855-1086w,Springfield,Black-capped,2016-07-12,11.9,67,F
+n218-9269u,Springfield,Black-capped,2016-07-13,10.9,64,F
+z814-3093q,Springfield,Black-capped,2016-07-13,10.5,64,F
+t379-6145x,Springfield,Black-capped,2016-07-13,12.1,65,F
+a126-6650r,Springfield,Black-capped,2016-07-13,10.9,65,F
+b905-2965q,Springfield,Black-capped,2016-07-14,10.4,62,F
+d497-3992r,Springfield,Black-capped,2016-07-14,12.4,67,F
+t494-2474b,Springfield,Black-capped,2016-07-14,10.8,65,F
+j762-3641u,Springfield,Black-capped,2016-07-14,10.8,64,F
+j500-1812u,Springfield,Black-capped,2016-07-16,11.1,63,F
+z157-1467w,Springfield,Black-capped,2016-07-16,11.3,65,F
+j183-7822r,Springfield,Black-capped,2016-07-17,11.4,64,F
+g798-1938q,Springfield,Black-capped,2016-07-17,11.8,66,F
+c902-6057i,Springfield,Black-capped,2016-07-17,11.8,67,F
+g468-9282m,Springfield,Black-capped,2016-07-18,11.1,62,F
+e439-8111x,Springfield,Black-capped,2016-07-18,11.6,65,F
+k198-5843s,Springfield,Black-capped,2016-07-19,11,64,F
+b715-3626w,Springfield,Black-capped,2016-07-19,10.4,61,F
+v557-1653q,Springfield,Black-capped,2016-07-19,10.5,65,F
+b132-1936s,Springfield,Black-capped,2016-07-19,10.6,62,F
+y139-2406j,Springfield,Black-capped,2016-07-21,11.6,62,F
+z963-3484o,Springfield,Black-capped,2016-07-21,11.1,62,F
+w501-9669z,Springfield,Black-capped,2016-07-21,12.2,66,F
+j852-6336d,Springfield,Black-capped,2016-07-21,11.1,63,F
+x309-4391t,Springfield,Black-capped,2016-07-24,11.9,67,F
+w957-3408z,Springfield,Black-capped,2016-07-24,11.1,65,F
+z754-4321e,Springfield,Black-capped,2016-07-24,10.9,64,F
+d133-3900a,Springfield,Black-capped,2016-07-24,11.5,64,F
+j387-6357r,Springfield,Black-capped,2016-07-24,10.3,64,F
+u607-2059y,Springfield,Black-capped,2016-07-27,11.1,67,F
+t189-2508d,Springfield,Black-capped,2016-07-27,10.8,60,F
+e861-9643t,Springfield,Black-capped,2016-07-27,11.6,66,F
+l386-9896k,Springfield,Black-capped,2016-07-28,11.7,65,F
+m170-3490u,Springfield,Black-capped,2016-08-01,11.5,65,F
+l283-9610b,Springfield,Black-capped,2016-08-02,12,68,F
+t470-6260m,Springfield,Black-capped,2016-08-03,11.9,67,F
+a374-1513r,Springfield,Black-capped,2017-05-16,11.5,61,F
+b956-6088d,Springfield,Black-capped,2017-05-16,11.7,65,M
+t233-6215z,Springfield,Black-capped,2017-05-21,11.7,65,M
+f210-2066f,Springfield,Black-capped,2017-06-01,12.3,65,M
+n397-8222z,Springfield,Black-capped,2017-06-01,12.4,64,M
+h727-9358n,Springfield,Black-capped,2017-06-01,12.5,67,M
+o339-8793y,Springfield,Black-capped,2017-06-01,12.1,65,M
+k443-4568a,Springfield,Black-capped,2017-06-01,11.2,65,M
+p704-4851z,Springfield,Black-capped,2017-06-01,10.6,62,F
+e636-5171p,Springfield,Black-capped,2017-06-03,11.7,66,M
+v919-2891y,Springfield,Black-capped,2017-06-03,11.2,68,M
+x753-2592a,Springfield,Black-capped,2017-06-03,11.5,65,F
+q562-5559c,Springfield,Black-capped,2017-06-05,12.5,65,M
+i879-6554i,Springfield,Black-capped,2017-06-05,11.6,66,M
+u762-1192b,Springfield,Black-capped,2017-06-07,12,63,M
+g772-9726y,Springfield,Black-capped,2017-06-10,13,66,M
+j947-6231d,Springfield,Black-capped,2017-06-10,12,65,M
+r804-4529w,Springfield,Black-capped,2017-06-14,12,66,M
+k751-4951l,Springfield,Black-capped,2017-06-16,11.4,65,F
+q449-7049y,Springfield,Black-capped,2017-06-16,12,63,M
+z276-6241a,Springfield,Black-capped,2017-06-17,11.9,65,M
+c601-1988w,Springfield,Black-capped,2017-06-17,12,62,M
+s376-1600w,Springfield,Black-capped,2017-06-17,12,64,M
+z357-9526r,Springfield,Black-capped,2017-06-17,12,63,F
+v671-1739i,Springfield,Black-capped,2017-06-19,10,64,F
+b127-9838z,Springfield,Black-capped,2017-06-21,11.6,66,F
+j908-3868c,Springfield,Black-capped,2017-06-21,11.9,64,M
+w438-4992p,Springfield,Black-capped,2017-06-22,11,67,M
+w501-7781h,Springfield,Black-capped,2017-06-22,11.2,65,M
+n730-1459v,Springfield,Black-capped,2017-06-22,9.4,61,F
+q334-6773p,Springfield,Black-capped,2017-06-25,10.8,62,M
+u620-9197u,Springfield,Black-capped,2017-06-26,10.7,67,M
+s511-3659i,Springfield,Black-capped,2017-06-26,11.8,63,M
+c205-1617d,Springfield,Black-capped,2017-06-26,10.9,62,M
+v110-5208c,Springfield,Black-capped,2017-06-26,10.8,61,F
+u414-6796l,Springfield,Black-capped,2017-06-28,11.2,62,F
+h276-1571c,Springfield,Black-capped,2017-06-28,12,64,M
+i248-5187b,Springfield,Black-capped,2017-06-28,10.3,62,F
+h505-9232g,Springfield,Black-capped,2017-06-28,11.6,65,M
+s338-9826r,Springfield,Black-capped,2017-06-30,11.7,63,M
+z748-6590q,Springfield,Black-capped,2017-07-12,11.9,66,F
+a268-6115c,Springfield,Black-capped,2017-07-15,11.8,66,M
+t137-5886b,Springfield,Black-capped,2017-07-24,10.4,67,F
+r362-2514s,Springfield,Black-capped,2017-07-24,10.7,66,F
+o860-2926u,Springfield,Black-capped,2017-07-24,11.8,63,F
+n705-2999t,Springfield,Black-capped,2017-07-31,10.7,64,F
+m348-6467k,Springfield,Black-capped,2017-08-01,12.7,67,M
+n127-9469a,Springfield,Black-capped,2017-08-01,11.4,63,M
+r926-8471m,"Washington, DC",Carolina,2000-04-28,10.4,63.5,M
+i879-2572t,"Washington, DC",Carolina,2000-04-30,9,62.5,M
+n215-3657h,"Washington, DC",Carolina,2000-06-03,10.9,61.5,M
+c682-7066j,"Washington, DC",Carolina,2000-07-06,8,59,F
+x231-8781z,"Washington, DC",Carolina,2000-07-06,8.7,59.5,F
+n860-4393m,"Washington, DC",Carolina,2000-07-22,10.1,61,M
+k598-3018f,"Washington, DC",Carolina,2001-03-15,10,60.5,M
+j430-8430w,"Washington, DC",Carolina,2001-03-15,10.1,61.5,M
+g195-2937u,"Washington, DC",Carolina,2001-03-15,10,61.5,M
+t221-5227c,"Washington, DC",Carolina,2001-03-23,9.6,65,M
+j817-6381b,"Washington, DC",Carolina,2001-03-23,10.2,63,M
+d591-2871r,"Washington, DC",Carolina,2001-03-26,10.4,59.5,F
+w610-4708r,"Washington, DC",Carolina,2001-04-04,10,61,M
+c887-7818k,"Washington, DC",Carolina,2001-04-05,9.8,59,M
+p158-1908u,"Washington, DC",Carolina,2001-04-05,10.3,61,M
+r861-7031u,"Washington, DC",Carolina,2001-04-06,10.1,64,M
+a431-4822n,"Washington, DC",Carolina,2001-04-06,9.6,63.5,M
+e623-8620e,"Washington, DC",Carolina,2001-04-12,10.3,60.5,M
+f915-2057d,"Washington, DC",Carolina,2001-04-12,9.9,62,M
+j684-9156b,"Washington, DC",Carolina,2001-04-18,10.5,59,F
+r100-2920b,"Washington, DC",Carolina,2001-04-19,10.1,63,M
+n277-8818i,"Washington, DC",Carolina,2001-04-20,10.4,61.5,M
+n954-7856y,"Washington, DC",Carolina,2001-04-20,9.8,59,F
+w280-3136p,"Washington, DC",Carolina,2001-04-23,10.4,62.5,M
+c762-3306t,"Washington, DC",Carolina,2001-04-23,8.3,58,F
+u879-2786v,"Washington, DC",Carolina,2001-04-24,10.8,64,M
+p398-1293x,"Washington, DC",Carolina,2001-04-25,10.5,62,M
+t345-1438g,"Washington, DC",Carolina,2001-04-25,10.2,55,F
+s949-9725t,"Washington, DC",Carolina,2001-04-26,9.6,59,F
+x824-1684z,"Washington, DC",Carolina,2001-04-27,11.4,65.5,M
+p977-9265r,"Washington, DC",Carolina,2001-04-27,9.9,61.5,F
+a686-8713k,"Washington, DC",Carolina,2001-04-30,9.7,61.5,F
+l712-2513l,"Washington, DC",Carolina,2001-04-30,11,65,M
+b490-7463u,"Washington, DC",Carolina,2001-05-01,9.9,60,M
+u816-7408a,"Washington, DC",Carolina,2001-05-01,10.5,61,M
+f729-1238s,"Washington, DC",Carolina,2001-05-01,9.3,58,F
+k288-6886p,"Washington, DC",Carolina,2001-05-01,10.5,60.5,F
+x219-8302f,"Washington, DC",Carolina,2001-05-01,10.2,63,M
+p381-6300s,"Washington, DC",Carolina,2001-05-02,10.4,64,M
+p705-7830c,"Washington, DC",Carolina,2001-05-02,9.6,56,F
+z282-8360x,"Washington, DC",Carolina,2001-05-03,10.5,64,M
+s928-5040o,"Washington, DC",Carolina,2001-05-14,10.6,64.5,M
+g892-1527g,"Washington, DC",Carolina,2001-05-15,9.6,60,M
+j547-4138k,"Washington, DC",Carolina,2001-05-15,9.8,62,F
+x957-1162e,"Washington, DC",Carolina,2001-05-16,9.8,65,M
+r244-1118k,"Washington, DC",Carolina,2001-05-16,9.2,61,M
+v978-7864f,"Washington, DC",Carolina,2001-05-18,10.7,65,M
+v896-1693e,"Washington, DC",Carolina,2001-05-18,10.2,60.5,M
+w295-5010u,"Washington, DC",Carolina,2001-05-19,10.2,64,M
+u996-2859x,"Washington, DC",Carolina,2001-05-22,8.8,61.5,F
+t794-5241t,"Washington, DC",Carolina,2001-05-22,8.5,62,F
+f441-9529b,"Washington, DC",Carolina,2001-05-22,9.3,60,F
+u432-8581r,"Washington, DC",Carolina,2001-05-24,8.8,57.5,F
+o927-6315r,"Washington, DC",Carolina,2001-05-24,10.5,62,M
+q333-5469j,"Washington, DC",Carolina,2001-05-31,10.4,65,M
+y690-7456y,"Washington, DC",Carolina,2001-05-31,9.7,63,F
+d578-9353z,"Washington, DC",Carolina,2001-05-31,11,66,M
+n169-1608z,"Washington, DC",Carolina,2001-05-31,10,60,M
+p887-1462c,"Washington, DC",Carolina,2001-06-02,10.3,60,F
+t835-6688c,"Washington, DC",Carolina,2001-06-06,10.2,56,F
+z831-8580d,"Washington, DC",Carolina,2001-06-09,10.4,66,M
+p126-9227m,"Washington, DC",Carolina,2001-06-11,10.1,56,F
+n838-1741f,"Washington, DC",Carolina,2001-06-13,9.6,59,F
+d951-7576h,"Washington, DC",Carolina,2001-06-15,10.7,62,M
+u812-1031j,"Washington, DC",Carolina,2001-06-15,10.5,62,F
+p225-2158n,"Washington, DC",Carolina,2001-06-15,10.1,60,F
+q759-5483x,"Washington, DC",Carolina,2001-06-16,9.8,59,F
+d952-2067o,"Washington, DC",Carolina,2001-06-18,10.7,64.5,M
+w305-4358n,"Washington, DC",Carolina,2001-06-18,10.1,61.5,F
+n821-8893a,"Washington, DC",Carolina,2001-06-19,9.7,61,F
+s741-1105f,"Washington, DC",Carolina,2001-06-19,9.1,59,F
+k617-6548a,"Washington, DC",Carolina,2001-06-20,8.6,59,F
+g629-2290q,"Washington, DC",Carolina,2001-06-20,9.3,61,F
+p336-6278q,"Washington, DC",Carolina,2001-06-22,9.3,61,F
+m321-6138u,"Washington, DC",Carolina,2001-06-22,9.8,65,F
+b870-6271j,"Washington, DC",Carolina,2001-06-26,8.2,59,F
+t277-7545g,"Washington, DC",Carolina,2001-06-26,9,56.5,F
+j370-7530t,"Washington, DC",Carolina,2001-07-10,10.2,61,F
+e962-3698d,"Washington, DC",Carolina,2004-04-19,10.4,62,M
+a186-6546l,"Washington, DC",Carolina,2014-04-22,10.8,61,M
+a954-9402r,"Washington, DC",Carolina,2015-06-01,10.3,64.5,M
+y811-7084k,"Washington, DC",Carolina,2015-06-01,9.6,60,M
+j801-6234c,"Washington, DC",Carolina,2016-04-12,10.4,62,M
+c768-3290s,"Washington, DC",Carolina,2016-04-13,10,58,M
+z870-4962s,"Washington, DC",Carolina,2016-04-19,10.3,61,M
+p716-9612u,"Washington, DC",Carolina,2016-04-22,10.7,65,M
+h654-4787q,"Washington, DC",Carolina,2016-04-24,9.8,63,M
+l765-2581c,"Washington, DC",Carolina,2016-04-24,10.1,64.5,M
+t739-5458j,"Washington, DC",Carolina,2016-04-25,9.7,61,M
+f373-7433u,"Washington, DC",Carolina,2016-04-26,10.3,62,M
+y643-5047p,"Washington, DC",Carolina,2016-04-26,9.5,60,M
+w539-1413g,"Washington, DC",Carolina,2016-04-28,10.2,64,M
+a781-6437w,"Washington, DC",Carolina,2016-04-28,10.2,55,F
+i754-9014x,"Washington, DC",Carolina,2016-04-29,9.5,61.5,M
+k913-9935g,"Washington, DC",Carolina,2016-04-30,9.8,57,F
+g369-9930n,"Washington, DC",Carolina,2016-05-02,10,60,M
+r553-1906y,"Washington, DC",Carolina,2016-05-07,11.3,60,M
+q324-9737m,"Washington, DC",Carolina,2016-05-07,8.8,61,F
+v700-8232h,"Washington, DC",Carolina,2016-05-11,9.3,55,F
+o142-2830v,"Washington, DC",Carolina,2016-05-11,9.5,62.5,M
+f242-2779m,"Washington, DC",Carolina,2016-05-12,10.3,63,M
+e585-8340y,"Washington, DC",Carolina,2016-05-12,9.8,62,M
+y848-3989g,"Washington, DC",Carolina,2016-05-13,9.1,64,M
+d168-9611a,"Washington, DC",Carolina,2016-05-13,9.5,61.5,F
+j108-5714z,"Washington, DC",Carolina,2016-05-14,8.7,57.5,F
+q699-2806w,"Washington, DC",Carolina,2016-05-14,9.6,60,F
+a350-6416g,"Washington, DC",Carolina,2016-05-16,9.1,56,F
+h116-7080g,"Washington, DC",Carolina,2016-05-16,9.9,65,M
+t851-9849g,"Washington, DC",Carolina,2016-05-16,9.1,57,F
+e461-7255k,"Washington, DC",Carolina,2016-05-16,8.9,57,F
+h294-6522e,"Washington, DC",Carolina,2016-05-16,10,61.5,M
+i306-2407m,"Washington, DC",Carolina,2016-05-16,10.1,63,M
+y531-7830j,"Washington, DC",Carolina,2016-05-16,9.1,57,F
+r603-9769g,"Washington, DC",Carolina,2016-05-16,9.5,59,F
+x738-5744n,"Washington, DC",Carolina,2016-05-16,8.7,59.5,F
+s677-7594a,"Washington, DC",Carolina,2016-05-16,9.9,62,M
+q658-7261u,"Washington, DC",Carolina,2016-05-17,10,65.5,M
+z869-4870m,"Washington, DC",Carolina,2016-05-19,9.4,59,F
+n885-7925h,"Washington, DC",Carolina,2016-05-20,11,64.25,M
+i133-8928o,"Washington, DC",Carolina,2016-05-20,9.3,60,F
+b700-5255r,"Washington, DC",Carolina,2016-05-22,9.7,62,M
+d735-7325k,"Washington, DC",Carolina,2016-05-22,9.4,59.75,M
+g583-2937v,"Washington, DC",Carolina,2016-05-25,9.3,59,M
+t781-1236u,"Washington, DC",Carolina,2016-05-26,9.3,61.25,M
+n595-7623t,"Washington, DC",Carolina,2016-05-26,10,60.5,F
+x411-6625u,"Washington, DC",Carolina,2016-05-27,9.1,56,F
+j412-9842e,"Washington, DC",Carolina,2016-05-27,10.4,63,M
+e922-6534r,"Washington, DC",Carolina,2016-05-27,9.4,59.25,F
+m978-9644i,"Washington, DC",Carolina,2016-05-28,10,62,M
+u879-5108b,"Washington, DC",Carolina,2016-05-28,9.7,59,F
+j682-3228a,"Washington, DC",Carolina,2016-05-28,10.5,65,M
+u529-8280z,"Washington, DC",Carolina,2016-06-02,10.5,63,M
+p939-4025i,"Washington, DC",Carolina,2016-06-03,9.7,62,F
+j841-2129i,"Washington, DC",Carolina,2016-06-03,10.5,62,F
+o456-3379v,"Washington, DC",Carolina,2016-06-03,9.9,59,F
+x915-8395v,"Washington, DC",Carolina,2016-06-07,8.4,60,F
+y278-1895c,"Washington, DC",Carolina,2016-06-10,9.7,58,F
+u251-8337l,"Washington, DC",Carolina,2016-06-10,8.5,60,F
+m483-5473o,"Washington, DC",Carolina,2016-06-11,9,61,F
+g999-1892f,"Washington, DC",Carolina,2016-06-14,8.5,59,F
+l585-9345u,"Washington, DC",Carolina,2016-06-16,8.9,57,F
+e493-4783m,"Washington, DC",Carolina,2016-06-17,9.9,62,M
+p954-6371w,"Washington, DC",Carolina,2016-06-17,9.1,60,F
+u654-8029r,"Washington, DC",Carolina,2016-06-20,9.8,58,F
+r388-9368e,"Washington, DC",Carolina,2016-06-20,10.2,61,F
+i805-7459e,"Washington, DC",Carolina,2016-06-20,10.9,60,F
+c615-9951e,"Washington, DC",Carolina,2016-06-21,9.3,59.5,F
+r453-4623t,"Washington, DC",Carolina,2016-06-22,10,61,F
+q281-7436c,"Washington, DC",Carolina,2016-06-24,9.2,57,F
+d116-6071y,"Washington, DC",Carolina,2016-06-25,9.1,60,F
+l934-7307s,"Washington, DC",Carolina,2016-06-25,10.4,62,F
+u140-6597d,"Washington, DC",Carolina,2016-06-25,10.5,63,F
+k400-4445a,"Washington, DC",Carolina,2016-06-27,9.1,59,F
+d647-5647p,"Washington, DC",Carolina,2016-06-28,8.9,58,F
+j310-5223a,"Washington, DC",Carolina,2016-07-01,8.5,55,F
+e857-2049s,"Washington, DC",Carolina,2016-07-01,9.4,64,F
+r720-7782d,"Washington, DC",Carolina,2016-07-08,10.2,64,M
+d656-7364z,"Washington, DC",Carolina,2016-07-14,9.8,60,M
+m899-4692u,"Washington, DC",Carolina,2016-07-16,9.6,60,F
+l102-2591r,"Washington, DC",Carolina,2017-03-27,9.1,66,M
+p299-5438v,"Washington, DC",Carolina,2017-04-20,9.9,61,M
+y172-5592c,"Washington, DC",Carolina,2017-04-28,10.2,60.5,F
+j686-7068i,"Washington, DC",Carolina,2017-05-01,9.6,58,F
+o127-8373j,"Washington, DC",Carolina,2017-05-03,9.4,61.5,M
+w528-3682v,"Washington, DC",Carolina,2017-05-04,10.2,66,M
+h247-7252l,"Washington, DC",Carolina,2017-05-04,9.7,63,M
+h725-1163r,"Washington, DC",Carolina,2017-05-04,10.2,65,M
+z815-6879j,"Washington, DC",Carolina,2017-05-06,9,59,F
+e761-8890t,"Washington, DC",Carolina,2017-05-08,9.3,60,F
+n994-6382q,"Washington, DC",Carolina,2017-05-10,9.8,61,M
+d907-9822g,"Washington, DC",Carolina,2017-05-16,9.9,65,M
+y256-4753i,"Washington, DC",Carolina,2017-05-17,9.9,63,M
+k595-2781h,"Washington, DC",Carolina,2017-05-18,8.8,58.5,F
+o137-9894f,"Washington, DC",Carolina,2017-05-23,9.1,55,F
+v312-7853z,"Washington, DC",Carolina,2017-05-30,9,59.5,F
+s565-7291w,"Washington, DC",Carolina,2017-05-31,9,59,F
+k323-8256s,"Washington, DC",Carolina,2017-05-31,9.5,61.5,F
+o450-9543j,"Washington, DC",Carolina,2017-06-05,9.5,61,F
+z943-5828x,"Washington, DC",Carolina,2017-06-12,9,59,F
+d638-4563j,"Washington, DC",Carolina,2017-06-14,9.6,58,F
+w494-9271c,"Washington, DC",Carolina,2017-06-15,9.7,56,F
+j817-6841c,"Washington, DC",Carolina,2017-06-22,8.9,58.5,F
+n513-3223l,"Washington, DC",Carolina,2017-06-22,8.8,58.5,F
+y273-1823a,"Washington, DC",Carolina,2017-06-27,8,57,F
+x458-5301o,"Washington, DC",Carolina,2017-06-30,9,61,F
+r867-6105y,"Washington, DC",Carolina,2017-07-11,8.8,61,F

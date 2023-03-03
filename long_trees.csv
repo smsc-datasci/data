@@ -1,0 +1,11 @@
+tree_id,species,measure,value
+1,Carya glabra,dbh,8
+1,Carya glabra,height,9
+2,Quercus rubra,dbh,32
+2,Quercus rubra,height,23
+3,Carya glabra,dbh,27
+3,Carya glabra,height,24
+4,Acer saccharum,dbh,24
+4,Acer saccharum,height,18
+5,Acer saccharum,dbh,42
+5,Acer saccharum,height,26
