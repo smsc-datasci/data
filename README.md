@@ -1,4 +1,4 @@
-# data
+# Data
 
 This repository contains data that you will use for videos, tutorials, and problem sets in this course.
 
