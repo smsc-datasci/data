@@ -5,5 +5,7 @@ This repository contains data that you will use for videos, tutorials, and probl
 Please be sure to update your data folder at the start of each week (*or when directed*) with:
 
 ```
+cd data
 git pull
+cd ..
 ```
