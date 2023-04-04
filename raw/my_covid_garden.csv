@@ -1,0 +1,46 @@
+bed,light_access,species,date,event
+1,full sun,NA,2019-10-28,applied compost
+2,full sun,NA,2019-10-29,applied compost
+3,full sun,NA,2019-11-01,applied compost
+4,full sun,NA,2019-11-05,applied compost
+5,full sun,NA,2019-11-08,applied compost
+6,full sun,NA,2019-11-08,applied compost
+0,deep shade,NA,2020-02-14,cut logs
+0,deep shade,lion's mane,2020-02-21,plugged logs
+0,deep shade,oyster mushrooms,2020-03-12,plugged logs
+0,deep shade,shitake,2020-03-15,plugged logs
+5,shade,mesclun,2020-04-03,planted
+1,full sun,jalapenos,2020-04-12,planted
+2,full sun,tomatoes,2020-04-14,planted
+6,full sun,edamame,2020-04-15,planted
+3,partial shade,kale,2020-04-16,planted
+4,full sun,summer squash,2020-04-17,planted
+6,full sun,corn,2020-04-21,planted
+2,full sun,NA,2020-05-12,weeded
+4,full sun,NA,2020-05-12,weeded
+1,full sun,NA,2020-05-17,weeded
+6,full sun,acorn squash,2020-05-18,planted
+6,full sun,NA,2020-05-18,weeded
+6,full sun,NA,2020-05-18,weeded
+5,shade,NA,2020-05-19,weeded
+5,shade,mesclun,2020-05-20,eaten by squirrels
+3,partial shade,NA,2020-05-26,weeded
+6,full sun,NA,2020-06-15,weeded
+6,full sun,NA,2020-06-15,weeded
+6,full sun,NA,2020-06-15,weeded
+3,partial shade,kale,2020-06-23,eaten by slugs
+3,partial shade,NA,2020-07-12,applied diatomaceous earth
+2,full sun,tomatoes,2020-07-14,eaten by deer
+4,full sun,summer squash,2020-07-14,trampled by deer
+1,full sun,NA,2020-07-16,fenced
+6,full sun,corn,2020-07-28,eaten by bugs
+3,partial shade,kale,2020-08-07,harvested and eaten by me
+6,full sun,edamame,2020-08-11,harvested and eaten by me
+6,full sun,acorn squash,2020-08-12,eaten by bugs
+0,deep shade,oyster mushrooms,2020-08-21,shocked logs
+0,deep shade,shitake,2020-09-12,initial harvest
+1,full sun,jalapenos,2020-09-23,harvested and eaten by me
+0,deep shade,shitake,2020-10-08,shocked logs
+0,deep shade,oyster mushrooms,2020-10-17,initial harvest
+0,deep shade,lion's mane,2020-11-02,shocked logs
+0,deep shade,lion's mane,2020-11-15,initial harvest
